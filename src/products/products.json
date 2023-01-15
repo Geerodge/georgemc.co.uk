@@ -1,0 +1,5 @@
+{
+  "layout": "product",
+  "tags": "products",
+  "permalink": "//products/{{ title | slugify }}/index.html"
+}

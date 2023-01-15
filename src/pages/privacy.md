@@ -7,26 +7,25 @@ description: I respect the EU General Data Protection Regulation (GDPR). This po
 layout: page
 ---
 
-Edit your details in `_data/meta.js`
-
 I respect the EU General Data Protection Regulation (GDPR) and this policy document explains how I collect and handle any information you provide to me.
 
 **What background data is collected?**
-This site does not use any third party tracking scripts.
+This site uses analytics to track website activity anonymously.
 
 **How do I use the data you provide?**
-This website does not collect any data.
+Website activity and any contact information you may send via a contact form.
 
 **How secure is your data?**
-Very secure, as this website does not collect any information.
+Very secure, this website is GDPR compliant.
 
 **How secure is this website?**
 This website transmits itself using HTTPS, encrypting all data between the browser and the server. Your network provider can still see that you are downloading assets from this site, but not its content. This also protects you from third parties intercepting data, for example, while browsing on public WiFi, or from network providers injecting advertisements on this site. All relevant response HTTP headers are set for your protection and the Content Security Policy is adjusted to this websites requirements.
 
 **Data controller**
-{{ meta.address.firma }}
+{{ meta.address.name }}
 {{ meta.address.street }}
-{{ meta.address.zip }}, {{ meta.address.city }}
+{{ meta.address.town }}, {{ meta.address.county }}
+{{ meta.address.postcode }}
 Tel: <a href="tel:{{ meta.address.mobileCall }}">{{ meta.address.mobileDisplay }}</a>
 Mail: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
 

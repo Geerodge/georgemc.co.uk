@@ -1,22 +1,18 @@
 ---
 title: About
 permalink: /about/index.html
-description: About this starter
-layout: page
-youtube: true
+description: I love to help solopreneurs and creators earn more money and grow their business.
+layout: "about"
+about:
+  intro: "I'm a New Zealand-born 🇳🇿 digital marketing expert based in 🇬🇧 North Devon, UK."
+  highlight: "I love to help small business owners earn more money"
+  postHighlight: "and grow their businesses."
+  image: "./src/assets/images/george-mcentegart.jpg"
+  alt: "George walking on the beach in Devon"
 ---
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+> I"ve been marketing, building websites and working in the IT industry for over 10 years 🤓 👍
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+During my marketing career I"ve worked with numerous companies, in all sorts of industries, and one thing is always the same...
 
-The aim is to hopefully spread the use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
-
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-
-Edit your preferences (colors, fonts, fluid text sizes etc.) in `src/assets/css/design-tokens`.
-
-## Watch the talk
-
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+**Understanding your audience** and **driving traffic to your website** is absolutely key to growing your business (okay, well two!).

@@ -4,6 +4,13 @@ const getAllPosts = collection => {
   return projects.reverse();
 };
 
+/** Returns all products as as a collection. */
+const getAllProducts = collection => {
+  const projects = collection.getFilteredByGlob('./src/products/*.md');
+  return projects;
+};
+
 module.exports = {
-  getAllPosts
+  getAllPosts,
+  getAllProducts
 };

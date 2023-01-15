@@ -5,15 +5,23 @@ module.exports = {
       url: '/about/'
     },
     {
+      text: 'Newsletter',
+      url: '/newsletter/'
+    },
+    {
       text: 'Blog',
       url: '/blog/'
-    }
+    },
+    {
+      text: 'Free Guides',
+      url: '/free-guides/'
+    },
+    {
+      text: 'Contact',
+      url: '/contact/'
+    },
   ],
   bottom: [
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
     {
       text: 'Privacy',
       url: '/privacy/'

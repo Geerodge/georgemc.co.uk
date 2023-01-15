@@ -1,0 +1,41 @@
+.signup__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+input[type=email] {
+  line-height: 4rem;
+  padding: 0px 15px;
+}
+
+input[type=email]:focus {
+  outline-offset: 0;
+}
+
+input[type=email]::placeholder {
+  font-size: smaller;
+}
+
+input[type=submit] {
+  background-color: var(--color-light);
+  cursor: pointer;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--color-tertiary);
+  border: solid 1px var(--color-tertiary);
+  padding: 0px 15px;
+  line-height: 4rem;
+  transition: background-color 0.3s ease-out 0s;
+  margin-top: 1rem;
+}
+
+input[type=submit]:hover {
+  color: var(--color-light);
+  background-color: var(--color-dark);
+}
+
+input[type=submit]:focus {
+  outline: 0px;
+}

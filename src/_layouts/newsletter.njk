@@ -9,31 +9,20 @@ layout: base
       <div class="text-center" role="doc-subtitle">{{ subtitle }}</div>
     </div>
   </div>
-  {% include "svg/divider-waves.svg" %}
+  {% include 'svg/divider-waves.svg' %}
 </header>
 
 <article class="region">
   <div class="wrapper flow prose text-center">
-    <h2 id="{{ newsletter.heading | slugify }}">
-      <a class="heading-anchor" href="#{{ newsletter.heading | slugify }}">{{ newsletter.heading }}</a>
-    </h2>
-    <p style="max-width: unset;">{{ newsletter.content }}</p>
-    {% include "partials/signup.njk" %}
-  </div>
-</article>
-
-<article class="section line-full spot-color-primary region">
-  {% include "svg/divider-curve.svg" %}
-  <div class="section__inner region">
-    <div class="wrapper flow prose text-center">
-      {{ content | safe }}
+    {{ content | safe }}
+    <div class="signup__container">
+      {% include "partials/signup.njk" %}
     </div>
-    {% include "partials/services.njk" %}
   </div>
 </article>
 
 <article class="region" style="--region-space-top: var(--space-s)">
-  <div class="wrapper flow prose text-center">
+  <div class="wrapper flow prose">
     <h2>{{ blog.title }}</h2>
     <!-- blog intro text is optional. -->
     {% if blog.intro %}
@@ -43,7 +32,7 @@ layout: base
   <!-- TODO: duplicate of partials/blog.njk -->
 
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 2) %}
+    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
 
     <li class="card flow clickable-card overflow-hidden">
       <h3>

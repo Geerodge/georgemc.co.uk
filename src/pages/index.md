@@ -1,17 +1,17 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
-layout: 'home'
+title: "Hi, I'm George"
+subtitle: "I help small business owners understand their audience and grow website traffic."
+description: "Helping small business owners understand their audience and grow website traffic."
+layout: "home"
+newsletter: 
+  heading: "Primo Post Newsletter"
+  content: "Once a week you'll get an email with my latest tips and insights to grow your online business."
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: "Latest Issues"
+  intro: "Tips and strategies that will help you drive more traffic to your website and get more sales."
 ---
 
-## An Eleventy starter
+## How I Can Help You
 
-This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
-
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
-
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+I can help you grow your businesses or project with the following options...

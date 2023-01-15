@@ -1,0 +1,10 @@
+.curve {
+  fill: var(--spot-color,var(--color-text));
+  display: block;
+  height: 3.5em;
+  width: 100%;
+}
+
+.section > .curve:first-child {
+  transform: rotate(180deg) translateY(-1px);
+}

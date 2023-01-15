@@ -17,3 +17,7 @@
 .section :is(h1, h2, h3, blockquote) {
   opacity: 95%;
 }
+
+.section.line-full p {
+  max-width: unset;
+}

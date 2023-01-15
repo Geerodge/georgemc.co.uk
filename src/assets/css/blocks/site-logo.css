@@ -7,3 +7,13 @@
   letter-spacing: -0.08rem;
   padding: var(--space-xs) 0;
 }
+
+.logo:focus {
+  color: var(--color-primary);
+  outline: 0;
+}
+
+.logo:focus > svg {
+  fill: #7395ae !important;
+}
+

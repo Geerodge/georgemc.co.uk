@@ -1,0 +1,21 @@
+<div class="wrapper">
+  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+    {% set productslist = collections.products %} {% for product in productslist %}
+
+    <li class="services flow clickable-card overflow-hidden">
+      {% if (product.data.icon == "mail") %}
+        {% include "svg/mail.svg" %}
+      {% elif  (product.data.icon == "laptop") %}
+        {% include "svg/laptop-2.svg" %}
+      {% elif  (product.data.icon == "handshake") %}
+        {% include "svg/heart-handshake.svg" %}
+      {% endif %}
+      <h2>
+        <a href="{{ product.url | url }}">{{ product.data.title }}</a>
+      </h2>
+      <p>{{ product.data.description }}</p>
+    </li>
+    
+    {% endfor %}
+  </ul>
+</div>
