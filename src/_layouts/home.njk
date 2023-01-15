@@ -37,7 +37,7 @@ layout: base
     <h2>{{ blog.title }}</h2>
     <!-- blog intro text is optional. -->
     {% if blog.intro %}
-    <p>{{ blog.intro }}</p>
+    <p style="max-width: unset;">{{ blog.intro }}</p>
     {% endif %}
   </div>
   <!-- TODO: duplicate of partials/blog.njk -->
