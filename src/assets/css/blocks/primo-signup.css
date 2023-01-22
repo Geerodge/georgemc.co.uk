@@ -1,24 +1,31 @@
-.signup__container {
+.primo {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
+  max-width: var(--wrapper-max-width, 85rem);
+  margin-left: auto;
+  margin-right: auto;
 }
 
-input[type=email] {
+.primo input[type=email],
+.primo input[type=text] {
   line-height: 4rem;
   padding: 0px 15px;
 }
 
-input[type=email]:focus {
+.primo input[type=email]:focus,
+.primo input[type=text]:focus {
   outline-offset: 0;
 }
 
-input[type=email]::placeholder {
+.primo input[type=email]::placeholder,
+.primo input[type=text]::placeholder {
   font-size: smaller;
 }
 
-input[type=submit] {
+.primo input[type=submit] {
   background-color: var(--color-light);
   cursor: pointer;
   font-weight: 700;
@@ -28,14 +35,13 @@ input[type=submit] {
   padding: 0px 15px;
   line-height: 4rem;
   transition: background-color 0.3s ease-out 0s;
-  margin-top: 1rem;
 }
 
-input[type=submit]:hover {
+.primo input[type=submit]:hover {
   color: var(--color-light);
   background-color: var(--color-dark);
 }
 
-input[type=submit]:focus {
+.primo input[type=submit]:focus {
   outline: 0px;
 }

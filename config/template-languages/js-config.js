@@ -16,7 +16,7 @@ module.exports = eleventyConfig => {
         let output = await esbuild.build({
           target: 'es2020',
           entryPoints: [path],
-          minify: true,
+          minify: false,
           bundle: true,
           write: false
         });

@@ -120,3 +120,11 @@ article [href^='http']:not([href*='eleventy-excellent.netlify.app'])::after {
 .preload-transitions * {
   transition: none !important;
 }
+
+.mw-unset {
+  max-width: unset;
+}
+
+.underline {
+  text-decoration: underline;
+}

@@ -5,6 +5,8 @@
     "node": ">=16.x.x"
   },
   "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
+  "author": "Lene Saile",
+  "license": "ISC",
   "main": ".eleventy.js",
   "scripts": {
     "clean": "rimraf dist",
@@ -18,8 +20,6 @@
     "type": "git",
     "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
-  "author": "Lene Saile",
-  "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0-canary.30",
     "@11ty/eleventy-fetch": "^3.0.0",

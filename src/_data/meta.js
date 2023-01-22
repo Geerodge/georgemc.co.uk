@@ -2,7 +2,7 @@ module.exports = {
   url: process.env.URL || 'http://localhost:8080',
   siteName: 'George McEntegart',
   siteDescription:
-    'Helping solopreneurs and creators understand their audience and grow website traffic',
+    'Helping digital entrepreneurs understand their audience, drive traffic and get more sales.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -20,15 +20,27 @@ module.exports = {
   },
   blog: {
     // this is for the rss feed
-    name: 'Audience and Traffic Growth for Solopreneurs and Creators',
+    name: 'Audience and Traffic Growth for Digital Entrepreneurs',
     description:
-      'Helping solopreneurs and creators maximise website visibility through audience insight.'
+      'Helping digital entrepreneurs understand their audience, drive traffic and get more sales.'
+  },
+  newsletter: {
+    // this is for the rss feed
+    name: 'Understand Your Audience, Drive Traffic and Grow Your Business',
+    description:
+      'Once a week you’ll get an email with my latest tips and insights that will help you grow your online business.'
+  },
+  guides: {
+    // this is for the rss feed
+    name: 'Free Guides for Digital Entrepreneurs to Grow Their Business',
+    description:
+      "I've put together some guides for digital entrepreneurs based off questions I get asked and the tools I use. It's all free to read and access here."
   },
   pagination: {
     itemsPerPage: 20
   },
   address: {
-    // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
+    // edit all presets or leave empty. They are being used in the pages for privacy.md and legal.md
     name: 'George McEntegart',
     street: '80 Westcourt Road',
     town: 'Worthing',

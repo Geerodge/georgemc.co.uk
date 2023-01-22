@@ -1,8 +1,8 @@
 /** Returns all blog posts as a collection. */
-const getAllPosts = collection => {
-  const projects = collection.getFilteredByGlob('./src/posts/*.md');
-  return projects.reverse();
-};
+// const getAllPosts = collection => {
+//   const projects = collection.getFilteredByGlob('./src/posts/*.md');
+//   return projects.reverse();
+// };
 
 /** Returns all products as as a collection. */
 const getAllProducts = collection => {
@@ -10,7 +10,22 @@ const getAllProducts = collection => {
   return projects;
 };
 
+/** Returns all free guides as as a collection. */
+const getAllGuides = collection => {
+  const guides = collection.getFilteredByGlob('./src/guides/*.md');
+  return guides;
+};
+
+/** Returns all newsletters as as a collection. */
+const getAllNewsletters = collection => {
+  const newsletters = collection.getFilteredByGlob('./src/newsletter/*.md');
+  return newsletters;
+};
+
+
 module.exports = {
-  getAllPosts,
-  getAllProducts
+  // getAllPosts,
+  getAllProducts,
+  getAllGuides,
+  getAllNewsletters
 };

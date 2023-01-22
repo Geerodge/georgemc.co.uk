@@ -1,5 +1,9 @@
 ---
 title: "Consultation & Training"
-description: "Need advice or training for a new or existing project? No problem. Lets discuss how I can help you."
+description: "One-to-One strategy calls where I teach you the foundations of creating a customer journey that bring in sales for any industry."
 icon: "handshake"
+eleventyExcludeFromCollections: false
+excludeFromSitemap: true
+Frontmatter:
+redirectFrom: ['/products/consultation-and-training/', '/contact/']
 ---

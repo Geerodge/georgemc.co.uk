@@ -9,6 +9,10 @@
         {% include "svg/laptop-2.svg" %}
       {% elif  (product.data.icon == "handshake") %}
         {% include "svg/heart-handshake.svg" %}
+      {% elif  (product.data.icon == "clock") %}
+        {% include "svg/clock.svg" %}
+      {% elif  (product.data.icon == "libary") %}
+        {% include "svg/libary.svg" %}
       {% endif %}
       <h2>
         <a href="{{ product.url | url }}">{{ product.data.title }}</a>

@@ -37,6 +37,7 @@ nav.insertBefore(burgerClone, list);
 // ------------------- accessible clickable cards solution by Heydon Pickering: https://inclusive-components.design/cards/
 
 const cards = [...document.querySelectorAll('.card')];
+const services = [...document.querySelectorAll('.services')];
 cards.forEach(card => {
   card.style.cursor = 'pointer';
   let down,
@@ -44,6 +45,20 @@ cards.forEach(card => {
     link = card.querySelector('a');
   card.onmousedown = () => (down = +new Date());
   card.onmouseup = () => {
+    up = +new Date();
+    if (up - down < 200) {
+      link.click();
+    }
+  };
+});
+// Added for services block, this could be improved by detecting only left click
+services.forEach(services => {
+  services.style.cursor = 'pointer';
+  let down,
+    up,
+    link = services.querySelector('a');
+  services.onmousedown = () => (down = +new Date());
+  services.onmouseup = () => {
     up = +new Date();
     if (up - down < 200) {
       link.click();

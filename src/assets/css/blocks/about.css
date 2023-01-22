@@ -1,4 +1,61 @@
+.about.top h4 {
+  max-width: 49ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-me {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 img {
   height: auto;
   max-width: 100%;
 }
+
+.about-image {
+  margin-bottom: 2em;
+}
+
+/* h3#want-to-grow-your-business-and-earn-more {
+  margin-top: 1em;
+}
+
+h3#want-to-grow-your-business-and-earn-more,
+h4#the-business-builder-blueprint {
+  text-align: center;
+  max-width: unset;
+}
+
+.blueprint_apply {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-bottom: var(--flow-space, 2em);
+}
+
+.blueprint_apply button {
+  background-color: var(--color-light);
+  cursor: pointer;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--color-tertiary);
+  border: solid 1px var(--color-tertiary);
+  padding: 0px 15px;
+  line-height: 4rem;
+  transition: background-color 0.3s ease-out 0s;
+}
+
+.blueprint_apply button:hover {
+  color: var(--color-light);
+  background-color: var(--color-dark);
+}
+
+.blueprint_apply button:focus {
+  outline: 0px;
+}
+
+.blueprint_apply a:after {
+  display: none !important;
+} */

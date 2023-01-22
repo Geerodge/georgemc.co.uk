@@ -1,17 +1,17 @@
 ---
-permalink: /index.html
 title: "Hi, I'm George"
-subtitle: "I help small business owners understand their audience and grow website traffic."
-description: "Helping small business owners understand their audience and grow website traffic."
-layout: "home"
+subtitle: "I Help Digital Entrepreneurs Understand Their Audience, Drive Traffic and Get More Sales"
+description: "Helping digital entrepreneurs understand their audience, drive website traffic, and get more sales."
+services: 
+  heading: "How I Can Help You"
+  content: "I can help you grow your online business or project and get more sales with the following options..."
 newsletter: 
-  heading: "Primo Post Newsletter"
+  heading: "Grow Traffic. Drive Sales. Earn More."
+  subtitle: "The Primo Post Newsletter"
   content: "Once a week you'll get an email with my latest tips and insights to grow your online business."
-blog:
-  title: "Latest Issues"
-  intro: "Tips and strategies that will help you drive more traffic to your website and get more sales."
+layout: "home"
+permalink: /index.html
 ---
 
-## How I Can Help You
+## Hello
 
-I can help you grow your businesses or project with the following options...

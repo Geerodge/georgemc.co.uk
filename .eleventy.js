@@ -32,8 +32,10 @@ const {
 } = require('./config/shortcodes/index.js');
 
 // module import collections
-const {getAllPosts} = require('./config/collections/index.js');
+// const {getAllPosts} = require('./config/collections/index.js');
 const {getAllProducts} = require('./config/collections/index.js');
+const {getAllGuides} = require('./config/collections/index.js');
+const {getAllNewsletters} = require('./config/collections/index.js');
 
 // plugins
 const markdownLib = require('./config/plugins/markdown.js');
@@ -53,8 +55,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.addLayoutAlias('base', 'base.njk');
   eleventyConfig.addLayoutAlias('page', 'page.njk');
   eleventyConfig.addLayoutAlias('home', 'home.njk');
-  eleventyConfig.addLayoutAlias('blog', 'blog.njk');
-  eleventyConfig.addLayoutAlias('post', 'post.njk');
+  // eleventyConfig.addLayoutAlias('blog', 'blog.njk');
+  // eleventyConfig.addLayoutAlias('post', 'post.njk');
   eleventyConfig.addLayoutAlias('newsletter', 'newsletter.njk');
   eleventyConfig.addLayoutAlias('about', 'about.njk');
 
@@ -92,8 +94,10 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(require('./config/template-languages/js-config.js'));
 
   // 	--------------------- Custom collections -----------------------
-  eleventyConfig.addCollection('posts', getAllPosts);
+  // eleventyConfig.addCollection('posts', getAllPosts);
   eleventyConfig.addCollection('products', getAllProducts);
+  eleventyConfig.addCollection('guides', getAllGuides);
+  eleventyConfig.addCollection('newsletters', getAllNewsletters);
 
   // 	--------------------- Plugins ---------------------
   eleventyConfig.addPlugin(EleventyRenderPlugin);

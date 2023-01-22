@@ -9,10 +9,6 @@ module.exports = {
       url: '/newsletter/'
     },
     {
-      text: 'Blog',
-      url: '/blog/'
-    },
-    {
       text: 'Free Guides',
       url: '/free-guides/'
     },

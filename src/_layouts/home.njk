@@ -4,21 +4,22 @@ layout: base
 
 <header class="section spot-color-primary">
   <div class="section__inner">
-    <div class="wrapper flow region">
+    <div class="wrapper flow region home top">
       <h1 class="text-center">{{ title }}</h1>
-      <div class="text-center" role="doc-subtitle">{{ subtitle }}</div>
+      <h4 class="text-center" role="doc-subtitle">{{ subtitle }}</h4>
     </div>
   </div>
   {% include "svg/divider-waves.svg" %}
 </header>
 
-<article class="region">
+<article class="region home">
   <div class="wrapper flow prose text-center">
     <h2 id="{{ newsletter.heading | slugify }}">
       <a class="heading-anchor" href="#{{ newsletter.heading | slugify }}">{{ newsletter.heading }}</a>
     </h2>
-    <p style="max-width: unset;">{{ newsletter.content }}</p>
-    {% include "partials/signup.njk" %}
+    <h4 class="text-center" role="doc-subtitle">{{ newsletter.subtitle }}</h4>
+    <p>{{ newsletter.content }}</p>
+    {% include "partials/primo-signup.njk" %}
   </div>
 </article>
 
@@ -26,33 +27,17 @@ layout: base
   {% include "svg/divider-curve.svg" %}
   <div class="section__inner region">
     <div class="wrapper flow prose text-center">
-      {{ content | safe }}
+      <h2 id="{{ services.heading | slugify }}">
+        <a class="heading-anchor" href="#{{ services.heading | slugify }}">{{ services.heading }}</a>
+      </h2>
+      <p>{{ services.content }}</p>
     </div>
     {% include "partials/services.njk" %}
   </div>
 </article>
 
-<article class="region" style="--region-space-top: var(--space-s)">
-  <div class="wrapper flow prose text-center">
-    <h2>{{ blog.title }}</h2>
-    <!-- blog intro text is optional. -->
-    {% if blog.intro %}
-    <p style="max-width: unset;">{{ blog.intro }}</p>
-    {% endif %}
+<article class="region">
+  <div class="wrapper flow prose home text-center">
+    {{ content | safe }}
   </div>
-  <!-- TODO: duplicate of partials/blog.njk -->
-
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 2) %}
-
-    <li class="card flow clickable-card overflow-hidden">
-      <h3>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h3>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
-      <p>{{ post.data.description }}</p>
-    </li>
-
-    {% endfor %}
-  </ul>
 </article>

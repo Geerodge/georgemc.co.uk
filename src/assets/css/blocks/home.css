@@ -1,0 +1,27 @@
+.home.top h4 {
+  max-width: 49ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home h2#grow-your-business-get-better-customers,
+.home h3#want-to-grow-your-business-with-my-plan {
+  max-width: 20ch;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.home h4#wasting-time-and-money-on-marketing-that-isnt-working,
+.home p {
+  max-width: unset;
+}
+
+.home h4 {
+  text-align: center;
+}
+
+.home h4#understand-your-audience-and-drive-traffic-to-your-website {
+  margin-bottom: 2em;
+  max-width: unset;
+}

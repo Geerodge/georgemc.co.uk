@@ -2,9 +2,12 @@
 title: Legal notice
 seo:
   title: Legal notice
-permalink: /imprint/index.html
-description: Imprint infos
+description: Legal stuff
 layout: page
+permalink: /legal/index.html
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+noindex: true
 ---
 
 {{ meta.address.name }}
