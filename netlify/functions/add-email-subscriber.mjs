@@ -2,6 +2,8 @@ require("dotenv").config({
   path: `.env`,
 });
 
+const axios = require('axios');
+
 module.exports.handler = async (event, context) => {
   const apiPubKey = process.env.klaviyo_apiPubKey;
   const apiSecret = process.env.klaviyo_apiSecret;
@@ -26,7 +28,7 @@ module.exports.handler = async (event, context) => {
       }],
     }
 
-    const { data } = await EleventyFetch.post(apiEndpoint, payload,
+    const { data } = await axios.post(apiEndpoint, payload,
       {
         headers: {
           Accept: "application/json",
