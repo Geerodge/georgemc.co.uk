@@ -1,4 +1,4 @@
-// ------------------- responsive accessible nav by Manuel Matuzović: https://web.dev/website-navigation/
+// © Manuel Matuzović: https://web.dev/website-navigation/
 
 const nav = document.querySelector('nav');
 const list = nav.querySelector('ul');
@@ -33,40 +33,7 @@ document.addEventListener('click', e => {
 
 nav.insertBefore(burgerClone, list);
 
-// ------------------- accessible clickable cards solution by Heydon Pickering: https://inclusive-components.design/cards/
-
-const cards = [...document.querySelectorAll('.card')];
-const services = [...document.querySelectorAll('.services')];
-cards.forEach(card => {
-  card.style.cursor = 'pointer';
-  let down,
-    up,
-    link = card.querySelector('a');
-  card.onmousedown = () => (down = +new Date());
-  card.onmouseup = () => {
-    up = +new Date();
-    if (up - down < 200) {
-      link.click();
-    }
-  };
-});
-// Added for services block, this could be improved by detecting only left click
-services.forEach(services => {
-  services.style.cursor = 'pointer';
-  let down,
-    up,
-    link = services.querySelector('a');
-  services.onmousedown = () => (down = +new Date());
-  services.onmouseup = () => {
-    up = +new Date();
-    if (up - down < 200) {
-      link.click();
-    }
-  };
-});
-
-// Sends newsletter subscription to netlify function that then subscribes email into Klayvio account via API.
-
+// Sends newsletter subscription to netlify function that then sends to Klayvio account via API.
 const axios = require('axios');
 
 async function handleFormSubmit(event) {

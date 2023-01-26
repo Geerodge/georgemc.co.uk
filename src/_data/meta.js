@@ -2,7 +2,7 @@ module.exports = {
   url: process.env.URL || 'http://localhost:8080',
   siteName: 'George McEntegart',
   siteDescription:
-    'Helping digital entrepreneurs understand their audience, drive traffic and get more sales.',
+    'Helping business owners understand their audience, drive traffic and get more sales.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -20,9 +20,9 @@ module.exports = {
   },
   blog: {
     // this is for the rss feed
-    name: 'Audience and Traffic Growth for Digital Entrepreneurs',
+    name: 'Audience and Traffic Growth for Business Owners',
     description:
-      'Helping digital entrepreneurs understand their audience, drive traffic and get more sales.'
+      'Helping business owners understand their audience, drive traffic and get more sales.'
   },
   newsletter: {
     // this is for the rss feed
@@ -32,9 +32,9 @@ module.exports = {
   },
   guides: {
     // this is for the rss feed
-    name: 'Free Guides for Digital Entrepreneurs to Grow Their Business',
+    name: 'Free Guides for Business Owners to Grow Their Business',
     description:
-      "I've put together some guides for digital entrepreneurs based off questions I get asked and the tools I use. It's all free to read and access here."
+      "I've put together some guides for business owners based off questions I get asked and the tools I use. It's all free to read and access here."
   },
   pagination: {
     itemsPerPage: 20

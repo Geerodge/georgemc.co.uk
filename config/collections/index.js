@@ -22,10 +22,17 @@ const getAllNewsletters = collection => {
   return newsletters;
 };
 
+/** Returns all testimonials as as a collection. */
+const getAllTestimonials = collection => {
+  const testimonials = collection.getFilteredByGlob('./src/testimonials/*.md');
+  return testimonials;
+};
+
 
 module.exports = {
   // getAllPosts,
   getAllProducts,
   getAllGuides,
-  getAllNewsletters
+  getAllNewsletters,
+  getAllTestimonials
 };

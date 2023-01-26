@@ -12,11 +12,6 @@
   background: var(--color-secondary);
 }
 
-.card ::selection {
-  color: var(--color-dark);
-  background: var(--color-secondary);
-}
-
 .card h2 {
   font-size: var(--size-step-3);
 }
@@ -39,6 +34,22 @@
   text-decoration: none;
 }
 
-.card:focus-within a:focus {
+/* 'clickable' */
+
+.card:focus-within a:focus,
+.services:focus-within a:focus {
   outline: none;
+}
+.card,
+.services {
+  position: relative;
+}
+.card a:after,
+.services a:after  {
+  bottom: 0;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
 }

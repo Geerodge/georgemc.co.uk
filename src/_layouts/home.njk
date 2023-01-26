@@ -36,8 +36,8 @@ layout: base
   </div>
 </article>
 
-<article class="region">
-  <div class="wrapper flow prose home text-center">
-    {{ content | safe }}
+<article class="region" style="--region-space-top: var(--space-xs)">
+  <div class="section line-full spot-color-primary region">
+    {% include "partials/testimonials.njk" %}
   </div>
-</article>
+</section>
