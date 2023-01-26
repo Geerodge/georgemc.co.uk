@@ -36,8 +36,11 @@ layout: base
   </div>
 </article>
 
-<article class="region" style="--region-space-top: var(--space-xs)">
-  <div class="section line-full spot-color-primary region">
+<article class="section line-full spot-color-primary region" style="--region-space-top: var(--space-xs)">
+  <div class="flow home testimonial">
+    <h2 id="{{ testimonials.heading | slugify }}">
+      <a class="heading-anchor" href="#{{ testimonials.heading | slugify }}">{{ testimonials.heading }}</a>
+    </h2>
     {% include "partials/testimonials.njk" %}
   </div>
 </section>

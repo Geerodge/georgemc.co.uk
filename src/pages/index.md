@@ -9,6 +9,8 @@ newsletter:
   heading: "Grow Traffic. Drive Sales. Earn More."
   subtitle: "The Primo Post Newsletter"
   content: "Once a week you'll get an email with my latest tips and insights to grow your online business."
+testimonials:
+  heading: Testimonials 
 layout: "home"
 permalink: /index.html
 ---
@@ -30,5 +32,4 @@ George's marketing skills have been an inspiration. Focussed on the task in hand
 Jonathan Rolande
 
 House Buy Fast
-
 George has done a lot of work for my firm over many years. I am delighted to be able to recommend him to anyone who needs website or marketing work. He is helpful, amenable and very knowledgeable about the subjects and carefully explains each step of the process. I have worked with many people in this sector and George is one of the best!

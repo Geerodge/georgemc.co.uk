@@ -17,11 +17,28 @@
   max-width: unset;
 }
 
-.home h4 {
-  text-align: center;
-}
-
 .home h4#understand-your-audience-and-drive-traffic-to-your-website {
   margin-bottom: 2em;
   max-width: unset;
+}
+
+.home h2#testimonials {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.home.testimonial {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--wrapper-max-width,145rem);
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
+}
+
+.home.testimonial .heading-anchor:is(:hover, :focus) {
+  text-decoration: underline;
+}
+.home.testimonial .heading-anchor {
+  text-decoration: none;
 }

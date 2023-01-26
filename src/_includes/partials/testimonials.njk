@@ -1,13 +1,13 @@
-<div class="wrapper">
-  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="35-35-35">
-    {% set testimonialslist = collections.testimonials %} {% for testimonial in testimonialslist %}
-
-    <li class="testimonials">
-      <h3>{{ testimonial.data.title }}</h3>
-      <h4>{{ testimonial.data.company }}</h4>
+<ul class="grid mt-l-xl testimonials" role="list" data-layout="50-50">
+  {% set testimonialslist = collections.testimonials %} {% for testimonial in testimonialslist %}
+  
+  <li>
+    <h3>{{ testimonial.data.title }}</h3>
+    <h4>{{ testimonial.data.company }}</h4>
+    <blockquote>
       <p>{{ testimonial.data.description }}</p>
-    </li>
-    
-    {% endfor %}
-  </ul>
-</div>
+    </blockquote>
+  </li>
+  
+  {% endfor %}
+</ul>
