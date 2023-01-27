@@ -7,6 +7,7 @@ blog:
   intro: "Tips and strategies to help you understand your audience, drive more traffic to your website and ultimately get more sales."
 layout: "newsletter"
 permalink: /newsletter/index.html
+redirectFrom: ['/products/the-primo-post/']
 ---
 ## The Primo Post
 
