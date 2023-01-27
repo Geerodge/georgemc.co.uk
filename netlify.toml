@@ -27,3 +27,8 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
+
+[[redirects]]
+  from = "/products/the-primo-post/"
+  to = "/newsletter/"
+  status = 200
