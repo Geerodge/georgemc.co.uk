@@ -1,11 +1,11 @@
 ---
-title: 'Tools for Online Entrepreneurs'
-description: 'There are many tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly.'
+title: "Tools for Online Entrepreneurs"
+description: "There are many tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly."
 date: 2022-03-10
 layout: "post"
 ---
 
-{% imagePlaceholder "./src/assets/images/recommended-tools.jpg", "Tools for online wntrepreneurs" %}
+{% imagePlaceholder "./src/assets/images/free-guides/recommended-tools.jpg", "Close up of hands typing on laptop keyboard" %}
 
 During my career in marketing I've used many tools and programs to help achieve my goals.
 

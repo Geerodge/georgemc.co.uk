@@ -5,7 +5,7 @@ date: 2023-01-07
 layout: "post"
 ---
 
-{% imagePlaceholder "./src/assets/images/seo-courses.jpg", "Free SEO courses" %}
+{% imagePlaceholder "./src/assets/images/free-guides/seo-courses.jpg", "Screenshot of website analytics" %}
 
 ## Google Analytics Academy Courses
 

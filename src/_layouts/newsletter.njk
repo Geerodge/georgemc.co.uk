@@ -31,14 +31,14 @@ layout: base
   </div>
 
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set newsletterslist = collections.newsletters %} {% for post in newsletterslist.slice(0, 4) %}
+    {% set newsletterslist = collections.newsletters %} {% for newsletter in newsletterslist.slice(0, 4) %}
 
     <li class="card flow overflow-hidden">
       <h3>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <a href="{{ newsletter.url | url }}">{{ newsletter.data.title }}</a>
       </h3>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
-      <p>{{ post.data.description }}</p>
+      {% set definedDate = newsletter.date %} {% include "partials/date.njk" %}
+      <p>{{ newsletter.data.description }}</p>
     </li>
 
     {% endfor %}

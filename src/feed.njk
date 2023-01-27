@@ -9,24 +9,47 @@ excludeFromSitemap: true
   <subtitle>{{ meta.blog.description }}</subtitle>
   <link href="{{ meta.url }}/feed.xml" rel="self" />
   <link href="{{ meta.url }}/" />
-  {% set postslist = collections.posts %}
-  <updated>{{ postslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  {# Newsletters #}
+  {% set newsletterslist = collections.newsletters %}
+  <updated>{{ newsletterslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ meta.url }}/</id>
   <author>
     <name>{{ meta.author }}</name>
     <email>{{ meta.authorEmail }}</email>
   </author>
-  {%- for post in postslist %} {%- set absolutePostUrl = post.url | absoluteUrl(meta.url)
+  {%- for newsletter in newsletterslist %} {%- set absoluteNewsletterUrl = newsletter.url | absoluteUrl(meta.url)
   %}
   <entry>
-    <title>{{ post.data.title }}</title>
-    <link href="{{ absolutePostUrl }}" />
-    <updated>{{ post.date | dateToRfc3339 }}</updated>
-    <id>{{ absolutePostUrl }}</id>
+    <title>{{ newsletter.data.title }}</title>
+    <link href="{{ absoluteNewsletterUrl }}" />
+    <updated>{{ newsletter.date | dateToRfc3339 }}</updated>
+    <id>{{ absoluteNewsletterUrl }}</id>
     <content
       xml:lang="{{ locale }}"
       type="html"
-      >{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content
+      >{{ newsletter.templateContent | htmlToAbsoluteUrls(absoluteNewsletterUrl) }}</content
+    >
+  </entry>
+  {%- endfor %}
+  {# Free Guides #}
+  {% set guideslist = collections.guides %}
+  <updated>{{ guideslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ meta.url }}/</id>
+  <author>
+    <name>{{ meta.author }}</name>
+    <email>{{ meta.authorEmail }}</email>
+  </author>
+  {%- for guide in guideslist %} {%- set absoluteGuideUrl = guide.url | absoluteUrl(meta.url)
+  %}
+  <entry>
+    <title>{{ guide.data.title }}</title>
+    <link href="{{ absoluteGuideUrl }}" />
+    <updated>{{ guide.date | dateToRfc3339 }}</updated>
+    <id>{{ absoluteGuideUrl }}</id>
+    <content
+      xml:lang="{{ locale }}"
+      type="html"
+      >{{ guide.templateContent | htmlToAbsoluteUrls(absoluteGuideUrl) }}</content
     >
   </entry>
   {%- endfor %}

@@ -24,7 +24,7 @@ module.exports = {
     description:
       'Helping business owners understand their audience, drive traffic and get more sales.'
   },
-  newsletter: {
+  newsletters: {
     // this is for the rss feed
     name: 'Understand Your Audience, Drive Traffic and Grow Your Business',
     description:

@@ -5,5 +5,6 @@ icon: "handshake"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
 Frontmatter:
+---
 redirectFrom: ['/products/consultation-and-training/', '/contact/']
 ---

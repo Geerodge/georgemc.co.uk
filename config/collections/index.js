@@ -18,7 +18,7 @@ const getAllGuides = collection => {
 
 /** Returns all newsletters as as a collection. */
 const getAllNewsletters = collection => {
-  const newsletters = collection.getFilteredByGlob('./src/newsletter/*.md');
+  const newsletters = collection.getFilteredByGlob('./src/newsletters/*.md');
   return newsletters;
 };
 
