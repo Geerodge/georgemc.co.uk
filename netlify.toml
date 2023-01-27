@@ -27,36 +27,3 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
-
-
-[[redirects]]
-  from = "/products/websites-you-can-trust/"
-  to = "/contact/"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["GB"], Role = ["admin"]}
-
-[[redirects]]
-  from = "/products/consultation-and-training/"
-  to = "/contact/"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["GB"], Role = ["admin"]}
-
-[[redirects]]
-  from = "/products/the-primo-post/"
-  to = "/newsletter/"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["GB"], Role = ["admin"]}
-
-[[redirects]]
-  from = "/products/free-guides/"
-  to = "/free-guides/"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["GB"], Role = ["admin"]}
