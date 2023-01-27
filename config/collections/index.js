@@ -6,8 +6,8 @@
 
 /** Returns all products as as a collection. */
 const getAllProducts = collection => {
-  const projects = collection.getFilteredByGlob('./src/products/*.md');
-  return projects;
+  const products = collection.getFilteredByGlob('./src/products/*.md');
+  return products;
 };
 
 /** Returns all free guides as as a collection. */

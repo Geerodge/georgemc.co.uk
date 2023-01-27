@@ -4,4 +4,5 @@ description: "I've put together some guides for business owners based off questi
 icon: "libary"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
+directURL: "https://georgemc.net/free-guides/"
 ---

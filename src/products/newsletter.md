@@ -4,4 +4,5 @@ description: "A free email once a week. These practical tips and insights will h
 icon: "mail"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
+directURL: "https://georgemc.net/newsletter/"
 ---

@@ -4,4 +4,5 @@ description: "One-to-One strategy calls where I teach you the foundations of cre
 icon: "handshake"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
+directURL: https://georgemc.net/contact/
 ---

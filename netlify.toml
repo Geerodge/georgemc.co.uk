@@ -27,8 +27,3 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
-
-[[redirects]]
-  from = "https://georgemc.net/products/the-primo-post/"
-  to = "https://georgemc.net/newsletter/"
-  status = 200
