@@ -5,5 +5,3 @@ icon: "laptop"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
 ---
-
-/products/websites-you-can-trust/  /contact/

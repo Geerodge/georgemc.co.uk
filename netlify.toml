@@ -27,3 +27,12 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
+
+
+[[redirects]]
+  from = "/products/websites-you-can-trust/"
+  to = "/contact/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["GB"], Role = ["admin"]}
