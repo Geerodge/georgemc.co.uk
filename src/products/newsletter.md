@@ -5,5 +5,3 @@ icon: "mail"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
 ---
-
-/products/the-primo-post/  /newsletter/
