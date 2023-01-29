@@ -1,6 +1,8 @@
 ---
 title: 'Free Training Courses for SEO and Marketing'
-description: 'A few resources and courses I would recommend running through to get started with SEO, Marketing and Analytics.'
+seo: 
+    title: 'Free Training Courses for SEO and Marketing | George McEntegart'
+    description: 'A few resources and courses I would recommend running through to get started with SEO, Marketing and Analytics.'
 date: 2023-01-07
 layout: "post"
 ---

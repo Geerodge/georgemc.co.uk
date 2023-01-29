@@ -1,7 +1,7 @@
 ---
 title: Legal notice
 seo:
-  title: Legal notice
+  title: Legal notice | George McEntegart
 description: Legal stuff
 layout: page
 permalink: /legal/index.html

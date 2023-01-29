@@ -1,6 +1,9 @@
 ---
 title: Contact
-description: 'If you want to work together or need some help and advice, please contact me directly using the form on this page.'
+description: "If you want to work together or need some help and advice, please contact me directly using the details here."
+seo:
+  title: "Contact | George McEntegart"
+  description: "Want to work together? Need some help and advice? Then please contact me directly with the details on this page."
 layout: contact
 permalink: /contact/index.html
 redirectFrom: ['/products/consultation-and-training/', '/products/websites-you-can-trust/']

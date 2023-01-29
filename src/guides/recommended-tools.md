@@ -1,6 +1,8 @@
 ---
 title: "Tools for Online Entrepreneurs"
-description: "There are many tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly."
+seo:
+    title: "Tools for Online Entrepreneurs | George McEntegart"
+    description: "There are many tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly."
 date: 2022-03-10
 layout: "post"
 ---

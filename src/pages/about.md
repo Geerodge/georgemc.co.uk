@@ -3,12 +3,15 @@ title: About
 subtitle: "I Help Business Owners Understand Their Audience, Drive Traffic and Get More Sales"
 description: "I love to help business owners earn more money, by helping them understand their audience and drive website traffic."
 about:
-  intro: "I'm a New Zealand-born 🇳🇿 digital marketing expert based in 🇬🇧 North Devon, UK."
+  intro: "I'm a New Zealand-born digital marketing expert based in North Devon, UK."
   highlight: "I love to help business owners earn more money"
   postHighlight: ", by helping them understand their audience and drive website traffic."
   image: "./src/assets/images/about/george-mcentegart.jpg"
   alt: "George McEntegart walking on the beach in Devon"
   quote: "I've been marketing and building websites for over 10 years, helping hundreds of clients grow their businesses."
+seo:
+  title: "About | George McEntegart"
+  description: "I help business owners understand their Audience, drive traffic and get more sales. Marketing and building websites for over 10 years."
 layout: "about"
 permalink: /about/index.html
 ---
