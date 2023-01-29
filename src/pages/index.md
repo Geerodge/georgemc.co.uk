@@ -13,7 +13,7 @@ testimonials:
   heading: "Testimonials"
 seo:
   title: "Grow Traffic. Drive Sales. Earn More. | George McEntegart"
-  description: "Helping business owners understand their audience, drive website traffic, and get more sales."
+  description: "Helping business owners  their audience, drive website traffic, and get more sales."
 layout: "home"
 permalink: /index.html
 ---
