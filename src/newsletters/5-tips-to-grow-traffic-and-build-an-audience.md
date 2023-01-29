@@ -2,7 +2,7 @@
 title: "5 Tips to Grow Traffic and Build an Audience"
 seo:
     title: "5 Tips to Grow Traffic and Build an Audience | George McEntegart"
-    description: "Lets get straight into these five simple and actionable  tips to grow traffic to your new website and build an audience. You don't want to miss these."
+    description: "Lets get straight into these five simple and actionable tips to grow traffic to your new website and build an audience. You don't want to miss these."
 date: 2022-12-30
 layout: "post"
 ---
