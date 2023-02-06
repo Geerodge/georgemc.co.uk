@@ -42,8 +42,7 @@
     title | slugify
   }}-preview.jpeg
   {% elif (layout == 'newsletter') %}/assets/images/primo-post-newsletter.jpg
-  {% else %}
-  {{ meta.meta_data.opengraph_default }}
+  {% else %}{{ meta.meta_data.opengraph_default }}
   {% endif %}"
 />
 <meta
