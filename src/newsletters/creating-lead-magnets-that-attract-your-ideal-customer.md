@@ -1,6 +1,6 @@
 ---
 title: "Creating Lead Magnets That Attract Your Ideal Customer"
-description: "If you want to generate leads online, your business needs a lead magnet, and if you can get your lead magnet right, you’ll see great conversions."
+description: "If you want to generate leads online, your business needs a lead magnet, and if you can get your lead magnet right, you'll see great conversions."
 date: 2023-01-07
 layout: "post"
 ---
