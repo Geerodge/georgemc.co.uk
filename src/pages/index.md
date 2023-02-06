@@ -1,5 +1,5 @@
 ---
-title: "Grow Traffic. Drive Sales. Earn More. | George McEntegart"
+title: "Hi, I'm George"
 subtitle: "I Help Business Owners Understand Their Audience, Drive Traffic and Get More Sales"
 description: "Helping business owners understand their audience, drive website traffic, and get more sales."
 services: 
