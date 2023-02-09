@@ -17,7 +17,7 @@ module.exports.handler = async (event, context) => {
   if (!email) {
     return {
       statusCode: 400,
-      body: JSON.stringify({ message: "Please provide an email address."})
+      body: JSON.stringify({ message: "Please provide an email address." })
     }
   };
 
@@ -41,10 +41,11 @@ module.exports.handler = async (event, context) => {
       statusCode: 200,
       body: JSON.stringify(data)
     }
+    
   } catch (error) {
     return {
       statusCode: 500,
-      body: JSON.stringify({message: "There was a problem adding your email."}),
+      body: JSON.stringify({ message: "There was a problem adding your email." }),
     }
   }
 };
