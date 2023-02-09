@@ -44,7 +44,7 @@ module.exports.handler = async (event, context) => {
   } catch (error) {
     return {
       statusCode: 500,
-      body: JSON.stringify(error + { message: "There was a problem subscribing your email."}),
+      body: JSON.stringify({message: "There was a problem adding your email."}),
     }
   }
 };
