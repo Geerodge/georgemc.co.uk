@@ -38,6 +38,7 @@ const {getAllProducts} = require('./config/collections/index.js');
 const {getAllGuides} = require('./config/collections/index.js');
 const {getAllNewsletters} = require('./config/collections/index.js');
 const {getAllTestimonials} = require('./config/collections/index.js');
+const {getAllGuidesAndNewsletters} = require('./config/collections/index.js');
 
 // module import events
 const {svgToJpeg} = require('./config/events/index.js');
@@ -105,6 +106,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.addCollection('guides', getAllGuides);
   eleventyConfig.addCollection('newsletters', getAllNewsletters);
   eleventyConfig.addCollection('testimonials', getAllTestimonials);
+  eleventyConfig.addCollection('guidesandnewsletters', getAllGuidesAndNewsletters);
 
   // 	--------------------- Events ---------------------
   eleventyConfig.on('afterBuild', svgToJpeg);

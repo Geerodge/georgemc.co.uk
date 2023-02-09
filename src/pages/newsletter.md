@@ -8,6 +8,7 @@ blog:
 seo:
   title: "Newsletter - The Primo Post | George McEntegart"
   description: "Tips and strategies to help you understand your audience, drive more traffic to your website and ultimately get more sales."
+  image: "primo-post-newsletter.jpg"
 layout: "newsletter"
 permalink: /newsletter/index.html
 redirectFrom: ['/products/the-primo-post/']

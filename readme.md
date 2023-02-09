@@ -5,4 +5,4 @@ This is based off the amazing work of [madrilene](https://github.com/madrilene) 
 Thank you!
 ## Preview
 
-https://silver-scone-f48848.netlify.app/
+Site is live here: https://georgemc.net
