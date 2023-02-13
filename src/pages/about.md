@@ -7,7 +7,7 @@ about:
   highlight: "I love to help business owners earn more money"
   postHighlight: ", by helping them understand their audience and drive website traffic."
   image: "./src/assets/images/about/george-mcentegart.jpg"
-  alt: "George McEntegart walking on the beach in Devon"
+  alt: "George McEntegart"
   quote: "I've been marketing and building websites for over 10 years, helping hundreds of clients grow their businesses."
 seo:
   title: "About | George McEntegart"
