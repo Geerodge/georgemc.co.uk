@@ -1,10 +1,10 @@
 ---
 title: Free Guides
 description: "Free guides and resources to help you grow your business."
-subtitle: "Free guides, tools and frameworks for business owners to grow their business."
+subtitle: "Free guides, tools and frameworks to help you grow your business"
 seo:
   title: "Free Guides and Resources | George McEntegart"
-  description: "Free guides, tools and frameworks for business owners to grow their business."
+  description: "Free guides, tools and frameworks to help you grow your business."
 layout: free-guides
 permalink: /free-guides/index.html
 redirectFrom: ['/products/free-guides/']
