@@ -6,7 +6,7 @@ about:
   intro: "I'm a New Zealand-born digital marketing expert based in North Devon, UK."
   highlight: "I love to help business owners earn more money"
   postHighlight: ", by helping them understand their audience and drive website traffic."
-  image: "./src/assets/images/about/george-mcentegart.jpg"
+  image: "./src/assets/images/about/george-mcentegart.png"
   alt: "George McEntegart"
   quote: "I've been marketing and building websites for over 10 years, helping hundreds of clients grow their businesses."
 seo:
