@@ -21,7 +21,7 @@ permalink: /about/index.html
 
 I teach my clients how to create a customer journey, understand their audience and bring in repeat sales.
 
-These skills help my clients grow their business and earn more.
+These skills help my clients how to grow their business and earn more.
 
 ### Grow Your Business and Get More Customers.
 #### Understand Your Audience and Drive Traffic to Your Website
