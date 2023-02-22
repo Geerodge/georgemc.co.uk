@@ -30,19 +30,15 @@ During my marketing career I've worked with numerous companies, in all sorts of 
 
 Most of them were struggling with the same thing.
 
-You can almost feel the frustration in their voice during our discovery calls.
+You can almost feel the frustration in their voice during our calls.
 
-They can't understand why their website traffic _isn't converting to sales_.
+They don't know exactly how to achieve their goals.
 
 #### They Want To Know:
 
-- Why their customers can't find their website
-- How to get customers that are easy to deal with
-- What they should do to get more sales
-
-Most of my clients _don't have the time_ to figure out what's wrong with their website or sales funnel.
-
-I get it, _they're busy with actually running their business_, or dealing with exisitng customers.
+- Who their audience is and where they are
+- How to get more customers and connect with them
+- What they should focus on to achieve their goals
 
 Luckily, they found me.
 
@@ -50,12 +46,12 @@ Luckily, they found me.
 
 #### Build a Thriving Business That Attracts Customers
 
-I teach my clients how to:
+I teach my clients:
 
-- Understand the customer journey and attract more clients
-- Fix their website to stop losing customers to the competition
-- Set up and automate their emails for repeat sales
-- Convert their website traffic into happy customers
+- How to understand their audience and attract more customers
+- How to fix their website to stop losing customers
+- About the tools available to automate their sales processes
+- How to convert their website traffic into cash in the bank
 
 The result?
 
