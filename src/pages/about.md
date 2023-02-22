@@ -70,12 +70,11 @@ But, I only work with clients that I know I can help.
 ### Want to Grow Your Business and Earn More?
 #### How to Work With Me
 
-Take these next steps and lets work together so you can grow traffic, drive sales and earn more.
+Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
 
 1. [==Apply now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
-2. Schedule a free 20 minute _no-obligation_ discovery call.
-3. Create a customised plan just for you and your business.
-3. Use the plan to grow your business, with my on-going support.
+2. We arrange a one-to-one 90 minute call.
+3. Use the plan we create to grow your business.
 
 #### Not Ready Yet?
 
