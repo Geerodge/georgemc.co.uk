@@ -1,6 +1,6 @@
 ---
-title: "Websites You Can Trust"
-description: "I create and promote websites that look great and bring in sales."
+title: "Websites That Convert"
+description: "I can design, create and launch affordable websites that don't just look great, but will bring in sales again and again."
 icon: "laptop"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
