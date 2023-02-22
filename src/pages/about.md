@@ -73,8 +73,8 @@ But, I only work with clients that I know I can help.
 Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
 
 1. [==Apply now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
-2. We arrange a one-to-one 90 minute call.
-3. Use the plan we create to grow your business.
+2. Arrange a one-to-one 90 minute call.
+3. Use the plan we create to achieve your goals and grow your business with clarity.
 
 #### Not Ready Yet?
 
