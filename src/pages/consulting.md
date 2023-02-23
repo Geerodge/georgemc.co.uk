@@ -55,6 +55,10 @@ I will help you with your messaging, socials, content, funnels, website, emails,
 
 This is a minimum 12 week service.
 
+If you decide it's not for you after 2 weeks...
+
+Then I'll give you a *full refund.*
+
 To ensure success, I only work with a limited number of clients.
 
 [==Jump on the wait list==](https://docs.google.com/forms/d/1TrTb1fe_STi33FVOLTNMPvf13x9l-MduVeq0nJ9bxUw/viewform) to secure the next free slot.
