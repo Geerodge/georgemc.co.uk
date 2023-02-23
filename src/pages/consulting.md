@@ -26,6 +26,10 @@ My **Goals and Growth Framework** will make it clear on exactly what you need to
 
 This is all done over one 90 minute call.
 
+And if you're not happy at the end of the call...
+
+I'll give you a *full refund.*
+
 Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
 
 1. [==Apply now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
