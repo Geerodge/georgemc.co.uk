@@ -1,6 +1,6 @@
 ---
 title: "Consulting Services"
-description: "One-to-One strategy calls where I teach you the foundations of creating a customer journey that will bring in sales for your business."
+description: "One-to-One calls to help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your goals."
 icon: "handshake"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: false
