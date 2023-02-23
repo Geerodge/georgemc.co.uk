@@ -6,7 +6,6 @@ seo:
   description: "Want to work together? Need some help and advice? Feel free to contact me directly with the details on this page."
 layout: contact
 permalink: /contact/index.html
-redirectFrom: ['/products/consultation-and-training/', '/products/websites-you-can-trust/']
 ---
 
 ### Want to Work Together?

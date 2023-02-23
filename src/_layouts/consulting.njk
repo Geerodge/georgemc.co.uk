@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region home top">
+      <h1 class="text-center">{{ title }}</h1>
+      <h4 class="text-center" role="doc-subtitle">{{ subtitle }}</h4>
+    </div>
+  </div>
+  {% include "svg/divider-waves.svg" %}
+</header>
+
+<article class="section region">
+  <div class="wrapper flow prose">
+      {{ content | safe }}
+  </div>
+</article>
