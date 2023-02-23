@@ -50,7 +50,7 @@ I teach my clients:
 
 - How to understand their audience and attract more customers
 - How to fix their website to stop losing customers
-- About the tools available to automate their sales processes
+- About the tools available to automate mundane tasks
 - How to convert their website traffic into cash in the bank
 
 The result?
