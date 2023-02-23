@@ -19,6 +19,7 @@ First, you should check out my [newsletter](/newsletter/) for my free tips and i
 I also work one-to-one with select clients.
 
 ### Option 1: Goals and Growth Consulting
+---
 
 I will help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your goals.
 
@@ -37,6 +38,7 @@ Take these next steps and lets work together so you can understand how to achiev
 3. Achieve your goals and grow your business.
 
 ### Option 2: Business Boost and Build
+---
 
 This option is a full service deep dive into your business.
 
