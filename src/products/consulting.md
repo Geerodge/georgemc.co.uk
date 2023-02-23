@@ -1,6 +1,6 @@
 ---
 title: "Consulting Services"
-description: "One-to-One calls to help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your goals."
+description: "One-to-One calls to help you understand who and where your customers are, how to connect with them and what you should do to achieve your goals."
 icon: "handshake"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: false
