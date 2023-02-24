@@ -29,7 +29,7 @@ This is all done over one 90 minute call.
 
 And if you're not happy at the end of the call...
 
-I'll give you a *full refund.*
+I'll offer you a *full refund.*
 
 Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
 
@@ -59,7 +59,7 @@ This is a minimum 12 week service.
 
 If you decide it's not for you after 2 weeks...
 
-Then I'll give you a *full refund.*
+I'll offer you a *full refund.*
 
 To ensure success, I only work with a limited number of clients.
 
