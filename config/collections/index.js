@@ -13,13 +13,13 @@ const getAllProducts = collection => {
 /** Returns all free guides as a collection. */
 const getAllGuides = collection => {
   const guides = collection.getFilteredByGlob('./src/guides/*.md');
-  return guides;
+  return guides.reverse();
 };
 
 /** Returns all newsletters as a collection. */
 const getAllNewsletters = collection => {
   const newsletters = collection.getFilteredByGlob('./src/newsletters/*.md');
-  return newsletters;
+  return newsletters.reverse();
 };
 
 /** Returns all testimonials as a collection. */

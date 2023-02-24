@@ -32,8 +32,8 @@ I will add to these as I get time and find more, so make sure you check back her
 
 ## Emails and Newsletters
 
-- **[Klaviyo](https://www.klaviyo.com/)** - A great option for emails, newsletters and SMS. Their segmented lists, automated and triggered emails are amazing.
-- **[ConvertKit](https://convertkit.com/)** - A great option for creators looking for more than just email. Offers landing pages and help to sell digital products & subscriptions.
+- **[Klaviyo](https://www.klaviyo.com/partners/signup?utm_source=0013o00002T0MmCAAV&amp;utm_medium=partner)** - A great option for emails, newsletters and SMS. Their segmented lists, automated and triggered emails are amazing.
+- **[ConvertKit](https://convertkit.com?lmref=n7cHCg)** - A great option for creators looking for more than just email. Offers landing pages and help to sell digital products & subscriptions.
 - **[TinyLetter](https://tinyletter.com/)** - A really straight forward and clean option for getting started with writing, building a list and newsletters.
 
 ## Design, Creative and Images

@@ -25,7 +25,7 @@ First, you should check out my [newsletter](/newsletter) for my free tips and in
 
 #### Consulting Services
 
-I also offer [one-to-one consulting](https://georgemc.net/consulting/) to select clients.
+I also offer one-to-one consulting to select clients.
 
 I teach my clients:
 
@@ -33,3 +33,5 @@ I teach my clients:
 - How to fix their website to stop losing customers
 - About the tools available to automate mundane tasks
 - How to convert their website traffic into cash in the bank
+
+Find out about my ==[my consulting services here.](https://georgemc.net/consulting/)==

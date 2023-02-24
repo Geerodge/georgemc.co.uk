@@ -8,7 +8,7 @@ services:
 newsletter: 
   heading: "Grow Traffic. Drive Sales. Earn More."
   subtitle: "The Primo Post Newsletter"
-  content: "Once a week you'll get an email with my latest tips and insights to grow your online business."
+  content: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
 testimonials:
   heading: "Testimonials"
 seo:
