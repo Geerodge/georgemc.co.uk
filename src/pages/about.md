@@ -34,4 +34,4 @@ I teach my clients:
 - About the tools available to automate mundane tasks
 - How to convert their website traffic into cash in the bank
 
-Find out about my ==[my consulting services here.](https://georgemc.net/consulting/)==
+Find out about my ==[my consulting services here.](/consulting)==
