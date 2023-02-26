@@ -39,7 +39,7 @@ module.exports.handler = async (event, context) => {
     
     return {
       statusCode: 200,
-      body: JSON.stringify(data, "Thanks for subscribing to the Primo Post.")
+      body: JSON.stringify(data)
     }
     
   } catch (error) {
