@@ -47,7 +47,7 @@ async function handleFormSubmit(event) {
       };
 
   await axios.post("/.netlify/functions/add-email-subscriber", payload);
-      alert("Contact details were added successfully");
+      alert("Success! Check your email to confirm your subscription.");
   } catch (error) {
       alert(error.message);
   }
