@@ -6,7 +6,7 @@ blog:
   title: "Previous Issues"
   intro: "Tips and strategies to help you understand your audience, drive more traffic to your website and ultimately get more sales."
 seo:
-  title: "Newsletter - The Primo Post | George McEntegart"
+  title: "The Primo Post Newsletter | George McEntegart"
   description: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
   image: "primo-post-newsletter.jpg"
 layout: "newsletter"

@@ -51,6 +51,7 @@ Most headlines these days (and copy) just don't stand up to this quality.
 Check out [my twitter thread](https://twitter.com/geerodge/status/1628803188517224456/) for more tips on crafting these irresistible headlines.
 
 ## 3 Copywriting Tips From Others
+#### These Are All Free
 
 1. [Copywriting Crash Course](https://kierandrew.ck.page/copy) from [Kieran Drew](https://twitter.com/ItsKieranDrew)
 2. [Write Better YouTube Titles In 1 Hour](https://www.creativeelements.fm/jake-thomas/) from [Jay Clouse's](https://twitter.com/jayclouse) Podcast with [Jake Thomas](https://twitter.com/jthomas__) (includes video interview)

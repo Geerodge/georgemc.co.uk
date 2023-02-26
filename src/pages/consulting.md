@@ -4,7 +4,7 @@ subtitle: I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow You
 description: "One-to-One strategy calls where I help you gain clarity and achieve your goals, so you can grow your business."
 seo:
   title: "Consulting Services | George McEntegart"
-  description: "One-to-One strategy calls where I help you gain clarity and achieve your goals, so you can grow your business."
+  description: "One-to-One strategy calls where I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business."
 layout: consulting
 permalink: /consulting/index.html
 ---

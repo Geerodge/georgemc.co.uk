@@ -3,7 +3,7 @@ title: Contact
 description: "If you want to work together or need some help and advice, feel free to contact me directly using the details here."
 seo:
   title: "Contact | George McEntegart"
-  description: "Want to work together? Need some help and advice? Feel free to contact me directly with the details on this page."
+  description: "I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business. Find my contact details here."
 layout: contact
 permalink: /contact/index.html
 ---
