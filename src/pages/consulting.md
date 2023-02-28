@@ -35,7 +35,7 @@ Take these next steps and lets work together so you can understand how to achiev
 
 1. [==Apply now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
 2. Book a one-to-one 90 minute call.
-3. Achieve your goals and grow your business.
+3. Understand your customer, messaging and goals.
 
 ### Option 2: Business Boost and Build
 ---
