@@ -21,7 +21,7 @@ permalink: /about/index.html
 
 #### Primo Post Newsletter
 
-First, you should check out my [newsletter](/newsletter) for my free tips and insights that will help you grow your online business.
+First, you should check out my [==newsletter==](/newsletter) for my free tips and insights that will help you grow your online business.
 
 #### Consulting Services
 
