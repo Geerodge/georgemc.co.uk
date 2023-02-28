@@ -35,7 +35,7 @@ Take these next steps and lets work together so you can understand how to achiev
 
 1. [==Apply now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
 2. Book a one-to-one 90 minute call.
-3. Understand your customer, messaging and goals.
+3. Understand your audience, messaging and goals.
 
 ### Option 2: Business Boost and Build
 ---
@@ -63,4 +63,4 @@ I'll offer you a *full refund.*
 
 To ensure success, I only work with a limited number of clients.
 
-[==Jump on the wait list==](https://docs.google.com/forms/d/1TrTb1fe_STi33FVOLTNMPvf13x9l-MduVeq0nJ9bxUw/viewform) to secure the next free slot.
+[==Apply now==](https://docs.google.com/forms/d/1TrTb1fe_STi33FVOLTNMPvf13x9l-MduVeq0nJ9bxUw/viewform) to see if we're a good fit.
