@@ -19,7 +19,7 @@ permalink: /about/index.html
 
 ## How Can I Help You?
 
-#### Primo Post Newsletter
+#### The Business Boost & Build Newsletter
 
 First, you should check out my [==newsletter==](/newsletter) for my free tips and insights that will help you grow your online business.
 

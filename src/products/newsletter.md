@@ -1,6 +1,6 @@
 ---
 title: "Newsletter"
-description: "A free email once a week. These practical tips and insights will help you understand your audience, drive traffic to your website and ultimately grow your business."
+description: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
 icon: "mail"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true

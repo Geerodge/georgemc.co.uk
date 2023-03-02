@@ -6,13 +6,14 @@ blog:
   title: "Previous Issues"
   intro: "Tips and strategies to help you understand your audience, drive more traffic to your website and ultimately get more sales."
 seo:
-  title: "The Primo Post Newsletter | George McEntegart"
+  title: "The Business Boost & Build Newsletter | George McEntegart"
   description: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
-  image: "primo-post-newsletter.jpg"
+  image: "newsletter.jpg"
 layout: "newsletter"
 permalink: /newsletter/index.html
-redirectFrom: ['/products/the-primo-post/']
 ---
-## The Primo Post
+## Proven Strategies For Business Growth
+
+#### The Business Boost & Build Newsletter
 
 Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others.

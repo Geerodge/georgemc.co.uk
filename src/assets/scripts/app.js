@@ -53,6 +53,6 @@ async function handleFormSubmit(event) {
   }
 };
 
-const newsletter = document.getElementById("primo-newsletter");
+const newsletter = document.getElementById("newsletter");
 newsletter.addEventListener("submit", handleFormSubmit);
 

@@ -1,4 +1,4 @@
-.primo {
+.newsletter {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -9,23 +9,23 @@
   margin-right: auto;
 }
 
-.primo input[type=email],
-.primo input[type=text] {
+.newsletter input[type=email],
+.newsletter input[type=text] {
   line-height: 4rem;
   padding: 0px 15px;
 }
 
-.primo input[type=email]:focus,
-.primo input[type=text]:focus {
+.newsletter input[type=email]:focus,
+.newsletter input[type=text]:focus {
   outline-offset: 0;
 }
 
-.primo input[type=email]::placeholder,
-.primo input[type=text]::placeholder {
+.newsletter input[type=email]::placeholder,
+.newsletter input[type=text]::placeholder {
   font-size: smaller;
 }
 
-.primo input[type=submit] {
+.newsletter input[type=submit] {
   background-color: var(--color-light);
   cursor: pointer;
   font-weight: 700;
@@ -37,11 +37,11 @@
   transition: background-color 0.3s ease-out 0s;
 }
 
-.primo input[type=submit]:hover {
+.newsletter input[type=submit]:hover {
   color: var(--color-light);
   background-color: var(--color-dark);
 }
 
-.primo input[type=submit]:focus {
+.newsletter input[type=submit]:focus {
   outline: 0px;
 }
