@@ -8,7 +8,7 @@ blog:
 seo:
   title: "The Business Boost & Build Newsletter | George McEntegart"
   description: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
-  image: "newsletter.jpg"
+  image: "newsletter.png"
 layout: "newsletter"
 permalink: /newsletter/index.html
 ---
