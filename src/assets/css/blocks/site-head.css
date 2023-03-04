@@ -8,7 +8,3 @@
 .site-head svg {
   fill:#557a95;
 }
-
-#mainnav ul li:last-child a {
-  background: var(--color-primary-glare);
-}

@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       text: 'Work With Me',
-      url: '/about/#how-can-i-help-you'
+      url: '/consulting/'
     },
   ],
   bottom: [

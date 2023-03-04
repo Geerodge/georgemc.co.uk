@@ -82,6 +82,16 @@ nav.navbar [aria-current='page'] {
   --text-color: var(--color-primary);
 }
 
+/* Change background-color for the last nav item */
+nav.navbar ul li:last-child {
+  background: var(--color-primary-glare);
+}
+
+/* Change text color for the last nav item when active */
+nav.navbar ul li:last-child [aria-current='page'] {
+  --text-color: var(--color-dark);
+}
+
 /* Reset button styling */
 nav.navbar button {
   all: unset;

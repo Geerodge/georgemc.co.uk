@@ -54,5 +54,8 @@ async function handleFormSubmit(event) {
 };
 
 const newsletter = document.getElementById("newsletter");
-newsletter.addEventListener("submit", handleFormSubmit);
+
+if (typeof(newsletter) != 'undefined' && newsletter != null) {
+  newsletter.addEventListener("submit", handleFormSubmit);
+}
 

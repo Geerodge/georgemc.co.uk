@@ -1,0 +1,45 @@
+---
+layout: base
+---
+
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region home top">
+      <h1 class="text-center shadow">{{ title }}</h1>
+      <h4 class="text-center" role="doc-subtitle">{{ subtitle }}</h4>
+    </div>
+  </div>
+  {% include "svg/divider-waves.svg" %}
+</header>
+
+<section class="region">
+  <div class="wrapper sidebar" data-direction="rtl">
+    <article class="wrapper flow prose">
+      <h2 id="{{ intro.heading | slugify }}">
+        <a class="heading-anchor" href="#{{ intro.heading | slugify }}">{{ intro.heading }}</a>
+      </h2>
+      <h4 id="{{ intro.subheading | slugify }}">
+        <a class="heading-anchor" href="#{{ intro.subheading | slugify }}">{{ intro.subheading }}</a>
+      </h4>
+      <p>{{ intro.one }}</p>
+      <p>{{ intro.two }}</p>
+      <p>{{ intro.three }}</p>
+    </article>
+    <aside class="sidebar-actual region">
+      <div class="wrapper flow prose">
+        <h3>What’s new?</h3>
+        <div class="flow prose">
+          <ul><li><time datetime="2023-02-20T00:00:00.000Z">February 20, 2023 </time>: New website design. Weclome to Flamed Fury 2023.</li><li><time datetime="2023-02-17T00:00:00.000Z">February 17, 2023 </time>: Updated the Mixtapes page.</li><li><time datetime="2023-02-15T00:00:00.000Z">February 15, 2023 </time>: Refreshed the About page and added a /uses page.</li><li><time datetime="2023-02-11T00:00:00.000Z">February 11, 2023 </time>: Added a new page to the Explore section for my Blogroll.</li><li><time datetime="2023-01-27T00:00:00.000Z">January 27, 2023 </time>: Updated the Vinyl Collection page.</li></ul><p class="text-center" style="font-size: var(--size-step-0);"><a href="/updates/">Website changelog</a></p>
+        </div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="region">
+  <div class="wrapper">
+    <article class="wrapper flow prose">
+      {{ content | safe }}
+    </article>
+  </div>
+</section>

@@ -33,6 +33,10 @@
     {
       "name": "Tertiary",
       "value": "#16253f"
+    },
+    {
+      "name": "Quaternary",
+      "value": "#a4bacb"
     }
   ]
 }

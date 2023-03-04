@@ -34,6 +34,10 @@ h3 {
   font-size: var(--size-step-3);
 }
 
+.shadow {
+  text-shadow: 3px 3px 0px rgb(255 255 255 / 40%)
+}
+
 /* Set line lengths */
 p,
 li,

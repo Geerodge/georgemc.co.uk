@@ -9,58 +9,75 @@ layout: consulting
 permalink: /consulting/index.html
 ---
 
-### Need Some Clarity?
-#### Grow Your Business and Get More Customers
+### How I Can Help You
+#### Want More Customers?
 
 I love to help business owners, creators and entrepreneurs grow their business and earn more money. 
 
 First, you should check out my [newsletter](/newsletter/) for my free tips and insights.
 
-I also work one-to-one with select clients.
+There are two ways I can help you.
 
-### Option 1: Goals and Growth Consulting
+1. [Goals and Growth Consulting](#goals-and-growth-consulting)
+2. [Landing Page Conversion Audit](#landing-page-conversion-audit)
+
+## Goals and Growth Consulting
+#### Do You Need Clarity and Direction?
 ---
 
 I will help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your goals.
 
-My **Goals and Growth Framework** will make it clear on exactly what you need to do.
-
-This is all done over one 90 minute call.
-
-And if you're not happy at the end of the call...
-
-I'll offer you a *full refund.*
-
-Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
-
-1. [==Apply now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
-2. Book a one-to-one 90 minute call.
-3. Understand your audience, messaging and goals.
-
-### Option 2: Business Boost and Build
----
-
-This option is a full service deep dive into your business.
-
-It's serious.
-
-This option includes my **Goals and Growth Framework** and much, much more.
+My **Goals and Growth Framework** helps you get clear on what you need to do.
 
 - Understand your audience and where they are
 - How to get more customers and connect with them
 - What you should do to achieve your goals
 - How to fix your website to stop losing customers
-- About the tools available to automate mundane tasks
-- How to convert website traffic into cash in the bank
 
-I will help you with your messaging, socials, content, funnels, website, emails, products and tools.
+This is all done over one 90 minute call.
 
-This is a minimum 12 week service.
+And if you're not happy at the end of the call...
 
-If you decide it's not for you after 2 weeks...
+*I'll refund you*
 
-I'll offer you a *full refund.*
+Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
 
-To ensure success, I only work with a limited number of clients.
+1. [==Apply Now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
+2. Book a one-to-one 90 minute call.
+3. Understand your audience, messaging and goals.
 
-[==Apply now==](https://docs.google.com/forms/d/1TrTb1fe_STi33FVOLTNMPvf13x9l-MduVeq0nJ9bxUw/viewform) to see if we're a good fit.
+## Landing Page Conversion Audit
+#### Is Your Website Costing You Customers?
+---
+
+A 20-minute, private video with easy-to-implement advice that will improve your landing page conversion rate.
+
+You can send me a live landing page or new design.
+
+Perfect for:
+
+- Landing pages
+- Newsletters
+- Lead magnets
+- Lead generation
+
+#### 100% Money-Back Guarantee
+
+If your landing page conversion doesn't increase, I'll refund you.
+
+#### Stop Losing Customers
+
+It's not too late - don't lose another customer.
+
+#### Problems Identified
+
+Specific fixes to your page's copy, design, positioning, pain-building, social proof, illustration and images, sign up forms, CTAs and load speed.
+
+#### What's Next?
+
+Take these next steps steps to increase your conversion rate.
+
+1. [==Request Audit==](https://docs.google.com/forms/d/1TrTb1fe_STi33FVOLTNMPvf13x9l-MduVeq0nJ9bxUw/viewform) and answer some questions
+2. I'll review your page and record a 20 minute video
+3. Watch the video and make the fixes. I can help with this
+4. Get more leads, sales or sign-ups. If you don't, I’ll refund you
