@@ -19,19 +19,21 @@ permalink: /about/index.html
 
 ## How Can I Help You?
 
+I can help you understand your audience, the customer journey and how to drive traffic to grow your business.
+
 #### The Business Boost & Build Newsletter
 
 First, you should check out my [==newsletter==](/newsletter) for my free tips and insights that will help you grow your online business.
 
 #### Consulting Services
 
-I also offer one-to-one consulting to select clients.
+I also offer one-to-one consulting and audits to select clients.
 
 I teach my clients:
 
 - How to understand their audience and attract more customers
 - How to fix their website to stop losing customers
 - About the tools available to automate mundane tasks
-- How to convert their website traffic into cash in the bank
+- How to convert website traffic into cash in the bank
 
 Find out about my ==[my consulting services here.](/consulting)==
