@@ -36,11 +36,17 @@ My **Goals and Growth Framework** helps you get clear on what you need to do.
 
 This is all done over one 90 minute call.
 
-And if you're not happy at the end of the call...
+#### 100% Money-Back Guarantee
 
-*I'll refund you*
+If you're not happy at the end of the call, I'll refund you.
 
-Take these next steps and lets work together so you can understand how to achieve your goals and grow your business.
+#### Stop Being Confused
+
+I'll help you gain clarity and achieve your goals.
+
+#### What's Next?
+
+Take these next steps to understand how to achieve your goals and who and where your audience are.
 
 1. [==Apply Now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
 2. Book a one-to-one 90 minute call.
