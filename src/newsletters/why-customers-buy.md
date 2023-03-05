@@ -12,7 +12,7 @@ layout: "post"
 
 *It's once a week and includes one tip from me and three resources from others.*
 
-{% imagePlaceholder "./src/assets/images/newsletter/why-customers-buy.jpg", "Hand holding up lightbulb in reference to marketing ideas" %}
+{% imagePlaceholder "./src/assets/images/newsletter/why-customers-buy.jpg", "The reasons behind why customers buy" %}
 
 #### This Weeks Tip: *Understand Why Your Customers Buy*
 
