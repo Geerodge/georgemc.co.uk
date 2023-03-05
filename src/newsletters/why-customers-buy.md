@@ -1,4 +1,3 @@
-@@ -1,83 +0,0 @@
 ---
 title: "Why Customers Buy (And The Levers You Can Use)"
 description: "If you can effectively tell people how you'll transform their lives and solve their problems, you'll make a sale."
