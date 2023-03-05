@@ -4,7 +4,7 @@ description: "If you can effectively tell people how you'll transform their live
 seo:
     title: "Why Customers Buy (And The Levers You Can Use) | George McEntegart"
     description: "If you can effectively tell people how you'll transform their lives and solve their problems, you'll make a sale."
-date: 2023-03-04
+date: 2023-03-05
 layout: "post"
 ---
 
