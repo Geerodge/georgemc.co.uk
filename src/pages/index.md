@@ -12,7 +12,7 @@ newsletter:
 testimonials:
   heading: "Testimonials"
 seo:
-  title: "Tools and Strategies That Grow Your Business | George McEntegart"
+  title: "Tools & Strategies To Grow Your Business | George McEntegart"
   description: "I simplify marketing to help you grow your business with clarity and confidence."
 layout: "home"
 permalink: /index.html
