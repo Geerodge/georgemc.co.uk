@@ -1,10 +1,10 @@
 ---
-title: "Grow Traffic. Drive Sales. Earn More."
-subtitle: "Understand Your Audience, Drive Traffic and Grow Your Business"
+title: "Boost & Build Newsletter"
+subtitle: "Ideas That Simplify Marketing and Help You Grow Your Business"
 description: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
 blog:
   title: "Previous Issues"
-  intro: "Tips and strategies to help you understand your audience, drive more traffic to your website and ultimately get more sales."
+  intro: "Actionable tips, tools and strategies that simplify marketing and help you grow your business."
 seo:
   title: "The Business Boost & Build Newsletter | George McEntegart"
   description: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
@@ -12,7 +12,8 @@ seo:
 layout: "newsletter"
 permalink: /newsletter/index.html
 ---
-## Proven Strategies For Business Growth
+
+### Tools and Strategies That Grow Your Business
 
 #### The Business Boost & Build Newsletter
 

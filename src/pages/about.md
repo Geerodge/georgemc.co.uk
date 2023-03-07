@@ -1,39 +1,38 @@
 ---
 title: About
-subtitle: "I Help Business Owners Understand Their Audience, Drive Traffic and Get More Sales"
-description: "I love to help business owners earn more money, by helping them understand their audience and drive website traffic."
+subtitle: "I Simplify Marketing To Help You Grow Your Business With Clarity and Confidence"
+description: "I will help you grow your business and earn more money by taking the guesswork out of your marketing."
 about:
-  intro: "I'm a New Zealand-born digital marketing expert now based in the United Kingdom."
-  highlight: "I love to help business owners grow their business and earn more money"
-  postHighlight: ", by helping them understand their audience, the customer journey and how to drive traffic."
+  intro: "I'm a New Zealand-born digital marketing expert based in the United Kingdom."
+  highlight: "I will help you grow your business and earn more money"
+  postHighlight: ", by taking the guesswork out of your marketing."
   image: "./src/assets/images/about/george-mcentegart.jpg"
   alt: "George McEntegart"
-  quote: "I've been marketing and building websites for over 10 years, helping hundreds of clients grow their businesses."
+  quote: "Over the past 10 years, I've helped hundreds of business owners and entrepreneurs understand their audience and create websites and emails that actually convert."
 seo:
-  title: "About - How I Help Businesses Grow | George McEntegart"
-  description: "I love to help business owners grow their business and earn more, by helping them understand their audience, the customer journey and how to drive traffic."
+  title: "About - Grow Your Business With Clarity | George McEntegart"
+  description: "I will help you grow your business and earn more money by taking the guesswork out of your marketing."
 layout: "about"
 permalink: /about/index.html
 ---
 
+### How Can I Help You Grow Your Business?
 
-## How Can I Help You?
-
-I can help you understand your audience, the customer journey and how to drive traffic to grow your business.
+I'll take the guesswork out of marketing so you can confidently grow your business.
 
 #### The Business Boost & Build Newsletter
 
-First, you should check out my [==newsletter==](/newsletter) for my free tips and insights that will help you grow your online business.
+First, you should check out my [==newsletter==](/newsletter) for the same tools and strategies I've used to help grow hundreds of businesses.
 
 #### Consulting Services
 
-I also offer one-to-one consulting and audits to select clients.
+I also offer one-to-one consulting to select clients.
 
-I teach my clients:
+I will help you grow your business with clarity and show you...
 
-- How to understand their audience and attract more customers
-- How to fix their website to stop losing customers
+- How to understand your audience and attract more customers
+- How to fix your website to stop losing customers
 - About the tools available to automate mundane tasks
 - How to convert website traffic into cash in the bank
 
-Find out about my ==[my consulting services here.](/consulting)==
+ ==[Click here to work with me.](/consulting)==

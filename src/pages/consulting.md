@@ -1,27 +1,31 @@
 ---
-title: Consulting Services
+title: Work With Me
 subtitle: I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business
 description: "One-to-One strategy calls where I help you gain clarity and achieve your goals, so you can grow your business."
 seo:
-  title: "Consulting Services | George McEntegart"
+  title: "Work With Me | George McEntegart"
   description: "One-to-One strategy calls where I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business."
 layout: consulting
 permalink: /consulting/index.html
 ---
 
-### How I Can Help You
-#### Want More Customers?
+## Are Customers Ignoring You?
 
-I love to help business owners, creators and entrepreneurs grow their business and earn more money. 
+Marketing should be simple, but most people get overwhelmed and confused.
 
-First, you should check out my [newsletter](/newsletter/) for my free tips and insights.
+Work with me and you'll finally see the results you've always wanted.
 
-There are two ways I can help you.
+But first, you should check out my [newsletter](/newsletter/) for the same tools and strategies I've used to help grow hundreds of businesses.
+
+### How Can I Help You Grow Your Business?
+
+There are two options:
 
 1. [Goals and Growth Consulting](#goals-and-growth-consulting)
 2. [Landing Page Conversion Audit](#landing-page-conversion-audit)
 
 ## Goals and Growth Consulting
+
 #### Do You Need Clarity and Direction?
 ---
 
@@ -36,23 +40,24 @@ My **Goals and Growth Framework** helps you get clear on what you need to do.
 
 This is all done over one 90 minute call.
 
+#### Grow Your Business With Clarity
+
+I'll help you take the guesswork out of marketing so you can confidently grow your business.
+
 #### 100% Money-Back Guarantee
 
 If you're not happy at the end of the call, I'll refund you.
 
-#### Stop Being Confused
-
-I'll help you gain clarity and achieve your goals.
-
 #### What's Next?
 
-Take these next steps to understand how to achieve your goals and who and where your audience are.
+Take these next steps and get the results you've always wanted.
 
 1. [==Apply Now==](https://docs.google.com/forms/d/e/1FAIpQLSfa4xyRBOW0Nb6fMiMdxji5ndcPJ54yfYLGWPnQEsDadtML1Q/viewform) to see if we're a good fit.
 2. Book a one-to-one 90 minute call.
-3. Understand your audience, messaging and goals.
+3. Gain clarity, get results and grow your business.
 
 ## Landing Page Conversion Audit
+
 #### Is Your Website Costing You Customers?
 ---
 
@@ -67,10 +72,6 @@ Perfect for:
 - Lead magnets
 - Lead generation
 
-#### 100% Money-Back Guarantee
-
-If your landing page conversion doesn't increase, I'll refund you.
-
 #### Stop Losing Customers
 
 It's not too late - don't lose another customer.
@@ -78,6 +79,10 @@ It's not too late - don't lose another customer.
 #### Problems Identified
 
 Specific fixes to your page's copy, design, positioning, pain-building, social proof, illustration and images, sign up forms, CTAs and load speed.
+
+#### 100% Money-Back Guarantee
+
+If your landing page conversion doesn't increase, I'll refund you.
 
 #### What's Next?
 
