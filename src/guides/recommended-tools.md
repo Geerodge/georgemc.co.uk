@@ -4,13 +4,13 @@ description: "There are many tools that can save you time and energy down the ro
 seo:
     title: "Tools for Online Entrepreneurs | George McEntegart"
     description: "There are many tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly."
-date: 2023-02-26
+date: 2023-03-07
 layout: "post"
 ---
 
 {% imagePlaceholder "./src/assets/images/free-guides/recommended-tools.jpg", "Close up of hands typing on laptop keyboard" %}
 
-During my career in marketing I've used many tools and programs to help achieve my goals.
+During my career in marketing I've used many tools and programs to help me achieve my goals.
 
 Some are free and some are charged, but all are very useful.
 
@@ -19,13 +19,12 @@ I will add to these as I get time and find more, so make sure you check back her
 ## SEO and Marketing Tools
 
 - **[Ahrefs](https://ahrefs.com/)** - an all-in-one SEO toolkit for analysing keywords, competitors and links.
-- **[Semrush](https://www.semrush.com/)** - another all-in-one SEO toolkit, track PPC campaigns, keywords, check links.
-- **[Moz](https://moz.com/)** - and another all-in-one SEO toolkit, run sit audits, track keyword rankings, build reports.
 - **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** - a desktop website crawler great for analysing websites and improving on-site SEO.
 
 ## Social Media Tools
 
 - **[Hypefury](https://hypefury.com/?via=george-mcentegart27)** Your personal assistant to grow and monetize your Twitter audience, it's epic. Try it free for 14 days!
+- **[ilo.so](https://ilo.so/?via=geerodge)** The bestTwitter analytics tool out there. 10% lifetime discount with this link!
 
 ## Emails and Newsletters
 
@@ -37,7 +36,6 @@ I will add to these as I get time and find more, so make sure you check back her
 
 - **[SiteGround](https://www.siteground.co.uk/web-hosting.htm?afcode=ccfda08978051dca1456dcbe73a4d786&campaign=georgemc+tools)** - Perfect for hosting websites that are using the WordPress platform, with a free plugin to help speed up your sites. Fast and helpful support when you need it.
 - **[DigitalOcean](https://www.digitalocean.com/?refcode=f068bf6e0053&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)** - Sign up with this link and you'll get $100 free credit to use. Great to try out their hosting services. Works well for a continuous deployment setup with a GitHub repository. Easy to spin up new servers.
-- **[Laravel Forge](https://forge.laravel.com/)** - A great server management tool. Provision and deploy applications onto many hosting providers.
 - **[Netlify](https://www.netlify.com/)** - Netlify is an all-in-one platform for automating modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow.
 
 ## Design, Creative and Images
