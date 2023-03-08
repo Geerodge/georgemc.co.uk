@@ -29,7 +29,7 @@
         {% if item.platform == "rss" %}
         <a href="{{ meta.url }}/{{ locale }}{{ item.url }}" rel="alternate" type="application/rss+xml">
         {% else %}
-        <a href="{{ item.url }}" rel="me">
+        <a href="{{ item.url }}" target="_blank" rel="me">
           {% endif %}
           <span class="sr-only">{{ item.platform }}</span>
           <div aria-hidden="true">{% include 'icons/social-' + item.icon %}</div>
