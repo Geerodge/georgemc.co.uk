@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: "If you want to work together or need some help and advice, feel free to contact me directly using the details here."
-subtitle: "I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business"
+subtitle: "I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business Clarity and Confidence"
 seo:
   title: "Contact | George McEntegart"
   description: "I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business. Find my contact details here."
@@ -13,7 +13,9 @@ permalink: /contact/index.html
 
 Thank you for your interest in contacting me.
 
-Send an email to [contact@georgemc.net](mailto:contact@georgemc.net) with the following:
+You can read more about [the services I provide here](/consulting).
+
+Otherwise, send an email to [contact@georgemc.net](mailto:contact@georgemc.net) with the following:
 
 - Full name
 - Best contact number
