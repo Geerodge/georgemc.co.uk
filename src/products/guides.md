@@ -1,6 +1,6 @@
 ---
 title: "Free Guides & Resources"
-description: "Guides, resources and tools to help you grow your business. It's all free to read and access here."
+description: "Free guides, tools, frameworks and resources that I've used with hundreds of clients to help them grow their businesses."
 icon: "libary"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
