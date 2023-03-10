@@ -8,7 +8,8 @@ services:
 newsletter: 
   heading: "Tools and Strategies That Grow Your Business"
   subtitle: "The Business Boost & Build Newsletter"
-  content: "Once a week you'll get an email that will help you grow your business. It includes one tip from me and three resources from others."
+  content: "A free weekly newsletter with tips and resources to help you grow your business with clarity and confidence."
+  subcontent: "It includes one tip from me and three resources from others."
 testimonials:
   heading: "Testimonials"
 seo:
