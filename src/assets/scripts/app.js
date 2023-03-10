@@ -48,6 +48,11 @@ async function handleFormSubmit(event) {
 
   await axios.post("/.netlify/functions/add-email-subscriber", payload);
       alert("Success! Check your email to confirm your subscription.");
+      // Sends successful newsletter signup event to Google Tag Manager
+      dataLayer.push({
+        'event' : 'newsletter_success',
+        'emailAddress' : email
+      });  
   } catch (error) {
       alert(error.message);
   }
