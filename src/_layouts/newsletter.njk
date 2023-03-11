@@ -24,7 +24,9 @@ layout: base
 
 <article class="region" style="--region-space-top: var(--space-s)">
   <div class="wrapper flow prose newsletter">
-    <h3>{{ blog.title }}</h3>
+    <h3 id="{{ blog.title | slugify }}">
+      <a class="heading-anchor" href="#{{ blog.title | slugify }}">{{ blog.title }}</a>
+    </h3>
     <!-- blog intro text is optional. -->
     {% if blog.intro %}
       <p>{{ blog.intro }}</p>
