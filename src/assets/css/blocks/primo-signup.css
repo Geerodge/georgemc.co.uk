@@ -26,11 +26,11 @@
 }
 
 .newsletter input[type=submit] {
-  background-color: var(--color-light);
+  color: var(--color-light);
+  background-color: var(--color-dark);
   cursor: pointer;
   font-weight: 700;
   text-transform: uppercase;
-  color: var(--color-tertiary);
   border: solid 1px var(--color-tertiary);
   padding: 0px 15px;
   line-height: 4rem;
@@ -38,8 +38,8 @@
 }
 
 .newsletter input[type=submit]:hover {
-  color: var(--color-light);
-  background-color: var(--color-dark);
+  color: var(--color-tertiary);
+  background-color: var(--color-light);
 }
 
 .newsletter input[type=submit]:focus {
