@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: "If you want to work together or need some help and advice, feel free to contact me directly using the details here."
-subtitle: "I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business Clarity and Confidence"
+subtitle: "I Will Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business Clarity and Confidence"
 seo:
   title: "Contact | George McEntegart"
   description: "I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business. Find my contact details here."

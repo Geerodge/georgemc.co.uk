@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm George"
-subtitle: "I Simplify Marketing To Help You Grow Your Online Business With Clarity and Confidence"
+subtitle: "I Simplify Marketing to Help You Grow Your Online Business With Clarity and Confidence"
 description: "I simplify marketing to help you grow your online business with clarity and confidence."
 services: 
   heading: "Grow Your Business Online With Ease"
