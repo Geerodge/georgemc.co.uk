@@ -79,7 +79,7 @@ You need clearly explain what you offer, how to get it and what transformation i
 ## Content
 ----
 
-Many brand website talk about themselves and their achievements.
+Many brand websites talk about themselves and their achievements.
 
 They are bloated with unnecessary content and don't focus on how they can help their customers.
 
