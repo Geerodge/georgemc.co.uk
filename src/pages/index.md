@@ -1,9 +1,9 @@
 ---
 title: "Hi, I'm George"
-subtitle: "I Simplify Marketing To Help You Grow Your Business With Clarity and Confidence"
-description: "I simplify marketing to help you grow your business with clarity and confidence."
+subtitle: "I Simplify Marketing To Help You Grow Your Online Business With Clarity and Confidence"
+description: "I simplify marketing to help you grow your online business with clarity and confidence."
 services: 
-  heading: "Grow Your Business With Ease"
+  heading: "Grow Your Business Online With Ease"
   content: "I can help you grow your online business or project and get more sales with the following options..."
 newsletter: 
   heading: "Tools and Strategies That Grow Your Business"

@@ -1,7 +1,7 @@
 ---
 title: About
-subtitle: "I Simplify Marketing To Help You Grow Your Business With Clarity and Confidence"
-description: "I will help you grow your business and earn more money by taking the guesswork out of your marketing."
+subtitle: "I Simplify Marketing To Help You Grow Your Online Business With Clarity and Confidence"
+description: "I will help you grow your online business and earn more money by taking the guesswork out of your marketing."
 about:
   intro: "I'm a New Zealand-born digital marketing expert based in the United Kingdom."
   highlight: "I will help you grow your business and earn more money"
