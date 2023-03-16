@@ -4,7 +4,7 @@ subtitle: "I Simplify Marketing to Help You Grow Your Online Business With Clari
 description: "I simplify marketing to help you grow your online business with clarity and confidence."
 services: 
   heading: "Grow Your Business Online With Ease"
-  content: "I can help you grow your online business or project and get more sales with the following options..."
+  content: "I can help you grow your business online with the following options..."
 newsletter: 
   heading: "Tools and Strategies That Grow Your Business"
   subtitle: "The Business Boost & Build Newsletter"
@@ -14,7 +14,7 @@ testimonials:
   heading: "Testimonials"
 seo:
   title: "Tools & Strategies To Grow Your Business | George McEntegart"
-  description: "I simplify marketing to help you grow your business with clarity and confidence."
+  description: "I simplify marketing ideas to help you grow your online business with clarity and confidence."
 layout: "home"
 permalink: /index.html
 ---

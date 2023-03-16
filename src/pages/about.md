@@ -18,15 +18,15 @@ permalink: /about/index.html
 
 ### How Can I Help You Grow Your Business?
 
-I'll take the guesswork out of marketing so you can confidently grow your business.
+I'll take the guesswork out of your marketing so you can confidently grow your business with clarity.
 
 #### The Business Boost & Build Newsletter
 
-First, you should check out my [==newsletter==](/newsletter) for the same tools and strategies I've used to help grow hundreds of businesses.
+First, you should [==subscribe to my newsletter==](/newsletter) for the same tools and strategies I've used to help hundreds of small business owners grow their businesses online.
 
 #### Consulting Services
 
-I also offer one-to-one consulting to select clients.
+I offer one-to-one consulting to select clients.
 
 I will help you grow your business with clarity and show you...
 
