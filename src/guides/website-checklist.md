@@ -8,7 +8,7 @@ date: 2023-03-11
 layout: "post"
 ---
 
-{% imagePlaceholder "./src/assets/images/free-guides/website-checklist.jpg", "People doing a site audit with website checklist" %}
+{% imagePlaceholder "./src/assets/images/free-guides/website-checklist.jpg", "Marketers going through a website checklist" %}
 
 
 When a customer lands on your website, you only have a few seconds to grab their attention.
