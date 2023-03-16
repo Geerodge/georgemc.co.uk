@@ -35,4 +35,4 @@ I will help you grow your business with clarity and show you...
 - About the tools available to automate mundane tasks
 - How to convert website traffic into cash in the bank
 
- ==[Click here to work with me.](/consulting)==
+ ==[Find out how I can help you here](/consulting)==
