@@ -1,9 +1,9 @@
 ---
-title: "Quick Website Checklist (Backed by Evidence)"
-description: "Many websites fail to capture their customers attention. This quick website checklist will highlight those problems and increase your sales or conversions."
+title: "Website Checklist (Backed by Evidence)"
+description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and increase your sales or conversions."
 seo:
     title: "Quick Website Checklist (With Evidence) | George McEntegart"
-    description: "Many websites fail to capture their customers attention. This quick website checklist will highlight those problems and increase your sales or conversions."
+    description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and increase your sales or conversions."
 date: 2023-03-11
 layout: "post"
 ---
@@ -15,9 +15,11 @@ When a customer lands on your website, you only have a few seconds to grab their
 
 You need to communicate clearly why they should do business with you.
 
-I will go over the main areas of a basic website and give you quick checklist for each section.
+I will go over the main sections of a website and give you checklist for each section.
 
-If you do these checks, I'm confident you'll see an increase in sales or conversions.
+This will help you identify how your website is losing customers.
+
+If you do these quick checks and make the changes, I'm confident you'll see an increase in sales and/or conversions.
 
 ### Contents
 
