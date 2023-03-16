@@ -1,9 +1,9 @@
 ---
 title: "Website Checklist"
-description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and increase your sales or conversions."
+description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and, once fixed, increase your conversion rate."
 seo:
-    title: "Quick Website Checklist (With Evidence) | George McEntegart"
-    description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and increase your sales or conversions."
+    title: "Website Checklist (Backed By Evidence) | George McEntegart"
+    description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and, once fixed, increase your conversion rate."
 date: 2023-03-11
 layout: "post"
 ---
