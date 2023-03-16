@@ -10,8 +10,6 @@ layout: "post"
 
 {% imagePlaceholder "./src/assets/images/free-guides/website-checklist.jpg", "Marketers going through a website checklist" %}
 
-### Website Checklist (Backed by Evidence)
-
 When a customer lands on your website, you only have a few seconds to grab their attention.
 
 You need to communicate clearly why they should do business with you.
