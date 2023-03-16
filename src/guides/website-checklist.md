@@ -1,5 +1,5 @@
 ---
-title: "Website Checklist (Backed by Evidence)"
+title: "Website Checklist"
 description: "Many websites fail to capture their customers attention. This easy website checklist will highlight those problems and increase your sales or conversions."
 seo:
     title: "Quick Website Checklist (With Evidence) | George McEntegart"
@@ -10,6 +10,7 @@ layout: "post"
 
 {% imagePlaceholder "./src/assets/images/free-guides/website-checklist.jpg", "Marketers going through a website checklist" %}
 
+### Website Checklist (Backed by Evidence)
 
 When a customer lands on your website, you only have a few seconds to grab their attention.
 
