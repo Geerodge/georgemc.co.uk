@@ -8,6 +8,10 @@ date: 2023-02-24
 layout: "post"
 ---
 
+*This is an article from [The Business Boost & Build Newsletter](/newsletter)*. 
+
+*It's once a week and includes one tip from me and three resources from others.*
+
 {% imagePlaceholder "./src/assets/images/newsletter/books-pen-and-notepad.jpg", "Books, pen and notepad on a desk" %}
 
 This week I want to talk about crafting awesome headlines.

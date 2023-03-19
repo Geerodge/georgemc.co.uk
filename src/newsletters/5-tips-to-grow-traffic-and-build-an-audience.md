@@ -8,6 +8,10 @@ date: 2022-12-30
 layout: "post"
 ---
 
+*This is an article from [The Business Boost & Build Newsletter](/newsletter)*. 
+
+*It's once a week and includes one tip from me and three resources from others.*
+
 {% imagePlaceholder "./src/assets/images/newsletter/grow-traffic-build-audience.jpg", "Man on laptop looking at website analytics" %}
 
 Today I’m going to share five simple tips to grow traffic to your new website and build an audience...

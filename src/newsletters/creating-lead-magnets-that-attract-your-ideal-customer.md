@@ -5,6 +5,10 @@ date: 2023-01-07
 layout: "post"
 ---
 
+*This is an article from [The Business Boost & Build Newsletter](/newsletter)*. 
+
+*It's once a week and includes one tip from me and three resources from others.*
+
 {% imagePlaceholder "./src/assets/images/newsletter/lead-magnet.jpg", "Audience written on whiteboard with arrows" %}
 
 ## What Makes a Good Lead Magnet?
