@@ -16,7 +16,7 @@ layout: "post"
 
 *How to get clear on your goals and build a successful online business*
 
-{% imagePlaceholder "./src/assets/images/newsletter/business-growth-and-clarity.jpg", "Business growth and clarity" %}
+{% imagePlaceholder "./src/assets/images/newsletter/business-growth-and-clarity.jpg", "Online business growth and clarity" %}
 
 A lack of clarity will kill your business.
 
@@ -24,7 +24,9 @@ Without clear strategy and messaging it's like throwing darts blindfolded. You m
 
 Use your plan as a compass, it's something you can reference to make sure you're heading in the right direction.
 
-So, how do you create a plan that will lead your business to success? Here's your 5 step guide...
+So, how do you create a plan that will lead your business to success?
+
+Here's 5 simple steps you can follow to get clear and start growing your business…
 
 &nbsp;
 ### 1. Think Big Picture
