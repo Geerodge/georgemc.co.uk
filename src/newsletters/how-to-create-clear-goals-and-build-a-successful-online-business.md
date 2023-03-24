@@ -1,9 +1,9 @@
 ---
 title: "How to Create Clear Goals & Build a Successful Online Business"
-description: "Follow this 5 step guide to help you get clear on your goals, how to achieve them and build a successful online business."
+description: "Learn how to create a plan that will get you clear on your goals, how to achieve them and lead your online business to success."
 seo:
     title: "5 Steps for Creating Clear Goals and Building a Successful Online Business"
-    description: "test"
+    description: "Learn how to create a plan that will get you clear on your goals, how to achieve them and lead your online business to success."
 date: 2023-03-19
 layout: "post"
 ---
