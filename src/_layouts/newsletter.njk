@@ -34,7 +34,7 @@ layout: base
   </div>
 
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set newsletterslist = collections.newsletters %} {% for newsletter in newsletterslist.slice(0, 4) %}
+    {% set newsletterslist = collections.newsletters %} {% for newsletter in newsletterslist %}
 
     <li class="card flow overflow-hidden">
       <h3>
