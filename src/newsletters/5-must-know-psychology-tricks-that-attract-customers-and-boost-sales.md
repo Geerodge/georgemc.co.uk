@@ -121,7 +121,7 @@ Use your messaging to help your customers:
 
 **Example**
 
-{% imagePlaceholder "./src/assets/images/newsletter/coca-cola-emotion-messaging.jpg", "Coca-cola emotion messaging" %}
+{% imagePlaceholder "./src/assets/images/newsletter/coca-cola-emotion-messaging.png", "Coca-cola emotion messaging" %}
 
 &nbsp;
 ### Three Resources From Others
