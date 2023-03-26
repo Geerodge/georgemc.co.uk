@@ -1,9 +1,9 @@
 ---
 title: "Headline Tips That Are Actually Useful"
-description: "People don't spend enough time on their headlines. It's the most important part of any copy. Here's why."
+description: "People don't spend enough time on their headlines. It's the most important part of any copy. Here's why, and how to write killer headlines that draw readers in."
 seo:
     title: "Headline Tips That Are Actually Useful | George McEntegart"
-    description: "People don't spend enough time on their headlines. It's the most important part of any copy. Here's why."
+    description: "People don't spend enough time on their headlines. It's the most important part of any copy. Here's why"
 date: 2023-02-24
 layout: "post"
 ---
