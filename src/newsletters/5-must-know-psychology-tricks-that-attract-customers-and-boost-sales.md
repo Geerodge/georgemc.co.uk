@@ -119,6 +119,10 @@ Use your messaging to help your customers:
 - Gain higher status
 - Have a purpose.
 
+**Example**
+
+{% imagePlaceholder "./src/assets/images/newsletter/coca-cola-emotion-messaging.jpg", "Coca-cola emotion messaging" %}
+
 &nbsp;
 ### Three Resources From Others
 
