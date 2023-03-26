@@ -82,6 +82,8 @@ You can tap into this psychological trait with customer reviews and testimonials
 
 Display them to encourage others to buy, whilst increasing trust and credibility.
 
+No need for an example here, onto the next one!
+
 &nbsp;
 ## FOMO (Fear Of Missing Out)
 
