@@ -1,8 +1,8 @@
 ---
-title: "5 Must Know Psychology Tricks That Attract and Retain Customers"
+title: "5 Must Know Psychology Tricks That Attract Customers and Boost Sales"
 description: "These five scientifically proven psychological tricks will attract more customers and get them to spend more money. They are must know marketing tricks."
 seo:
-    title: "5 Must Know Psychology Tricks That Attract and Retain Customers"
+    title: "5 Must Know Psychology Tricks That Attract Customers and Boost Sales"
     description: "These five scientifically proven psychological tricks will attract more customers and get them to spend more money. They are must know marketing tricks."
 date: 2023-03-26
 layout: "post"
@@ -14,7 +14,7 @@ layout: "post"
 
 **This Weeks Tip**
 
-*Effective ways to use psychology to attract and retain customers.*
+*Effective ways to use psychology to attract customers and boost.*
 
 {% imagePlaceholder "./src/assets/images/newsletter/must-know-psychology-tricks.jpg", "Must know psychology for marketing and sales" %}
 
