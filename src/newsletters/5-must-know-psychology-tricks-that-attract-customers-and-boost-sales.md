@@ -14,7 +14,7 @@ layout: "post"
 
 **This Weeks Tip**
 
-*Effective ways to use psychology to attract customers and boost.*
+*Effective ways to use psychology to attract customers and boost sales.*
 
 {% imagePlaceholder "./src/assets/images/newsletter/must-know-psychology-tricks.jpg", "Must know psychology for marketing and sales" %}
 
