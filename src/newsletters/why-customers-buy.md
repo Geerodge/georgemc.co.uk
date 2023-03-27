@@ -67,7 +67,7 @@ Your marketing strategy needs all three of these.
 
 - Why - Their problem
 
-Connect the dots between each of this and create simple messaging and content to attract them.
+Connect the dots between each of these. Create simple messaging and content to attract.
 
 Ask yourself these questions to help you understand why your customers buy and how you could help.
 
