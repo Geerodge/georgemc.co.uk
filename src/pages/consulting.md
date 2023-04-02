@@ -25,7 +25,7 @@ There are three options:
 
 1. [Goals and Growth Consulting](#goals-and-growth-consulting)
 2. [Landing Page Conversion Audit](#landing-page-conversion-audit)
-3. [Website Design and Build](#website-design-and-build)
+3. [Website Design and Build](#website-design)
 
 &nbsp;
 ## Goals and Growth Consulting
