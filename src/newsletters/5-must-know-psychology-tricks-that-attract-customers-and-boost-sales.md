@@ -74,7 +74,7 @@ We're all just sheep, well…. kind of.
 
 We decide what is right, based on what other people think is right. 
 
-This is a valuable evolutionary trait. By acting as other do, you are less likely to make a mistake. Potentially putting yourself and your group in danger.
+This is a valuable evolutionary trait. By acting as others do, you are less likely to make a mistake. Potentially putting yourself and your group in danger.
 
 This is why television producers add laugh tracks to sitcoms. If you hear others laughing, you will be more likely to laugh.
 
