@@ -13,16 +13,16 @@ permalink: /contact/index.html
 
 Thank you for your interest in contacting me.
 
-You can read more about [the services I provide here](/consulting).
-
-Otherwise, send an email to [contact@georgemc.net](mailto:contact@georgemc.net) with the following:
+Send an email to [contact@georgemc.net](mailto:contact@georgemc.net) with the following:
 
 - Full name
 - Best contact number
-- The problem you want to solve
+- What you need
+
+You can read more about [the services I provide here](/consulting).
 
 #### Have a Question?
 
 If you have a quick question, you can also find me on Twitter [@Geerodge](https://twitter.com/geerodge).
 
-You may also be interested in my weekly [newsletter](/newsletter) Boost & Build where I simplify marketing ideas that will help you grow your business.
+You may also be interested in my weekly newsletter [Business Boost & Build](/newsletter) where I simplify marketing ideas that will help you grow your business.

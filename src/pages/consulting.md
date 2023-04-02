@@ -11,19 +11,23 @@ permalink: /consulting/index.html
 
 ## Are Customers Ignoring You?
 
+&nbsp;
 Marketing should be simple, but most people get overwhelmed and confused.
 
 Work with me and you'll finally see the results you've always wanted.
 
 But first, you should check out my [newsletter](/newsletter/) for the same tools and strategies I've used to help grow hundreds of businesses.
 
-### How Can I Help You Grow Your Business?
+&nbsp;
+### How I Help You Grow Your Business
 
-There are two options:
+There are three options:
 
 1. [Goals and Growth Consulting](#goals-and-growth-consulting)
 2. [Landing Page Conversion Audit](#landing-page-conversion-audit)
+3. [Website Design and Build](#website-design-and-build)
 
+&nbsp;
 ## Goals and Growth Consulting
 
 #### Do You Need Clarity and Direction?
@@ -56,6 +60,7 @@ Take these next steps and get the results you've always wanted.
 2. Book a one-to-one 90 minute call.
 3. Gain clarity, get results and grow your business.
 
+&nbsp;
 ## Landing Page Conversion Audit
 
 #### Is Your Website Costing You Customers?
@@ -86,9 +91,58 @@ If your landing page conversion doesn't increase, I'll refund you.
 
 #### What's Next?
 
-Take these next steps steps to increase your conversion rate.
+Take these next steps to increase your conversion rate.
 
 1. [==Request Audit==](https://docs.google.com/forms/d/1TrTb1fe_STi33FVOLTNMPvf13x9l-MduVeq0nJ9bxUw/viewform) and answer some questions
 2. I'll review your page and record a 20 minute video
 3. Watch the video and make the fixes. I can help with this
 4. Get more leads, sales or sign-ups. If you don't, I’ll refund you
+
+&nbsp;
+## Website Design
+#### Websites That Look Great and Attract Customers
+---
+
+Are you tired of bland, generic websites that don't represent your unique business?
+
+Looking to elevate your online presence to attract more customers and boost sales?
+
+I will design and develop a stunning, responsive, and user-friendly website that showcases your brand's personality and help you thrive in the digital world.
+
+#### Personalised, Bespoke Designs
+
+I believe that your website should be a reflection of your unique business values and goals.
+
+That's why I craft tailor-made designs that effectively communicate your brand story and resonate with your target audience.
+
+#### Cutting-Edge Technologies
+
+I'm committed to staying up-to-date with the latest web design and development trends.
+
+This ensures that your website is built with the most advanced tools and technologies for optimal performance, security, and responsiveness.
+
+#### Seamless User Experience
+
+A beautiful website is nothing without exceptional usability.
+
+I prioritize user experience and design websites that are easy to navigate, load quickly, and adapt to any device, providing a seamless experience for your visitors.
+#### Transparent, Flexible Pricing
+
+I understand that every business has different needs and budgets.
+
+That's why I offer a range of pricing packages to suit your specific requirements, with no hidden fees or long-term contracts.
+
+#### Ongoing Support and Maintenance
+
+Your success is my success. I don't just build your website and leave you to it.
+
+I provide ongoing support and maintenance to ensure your online presence remains strong, up-to-date, and problem-free.
+
+#### What's Next?
+
+Take these next steps to launch your website and start attracting customers.
+
+1. [==Send me an email==](/contact)
+2. I'll design a website for your specific needs
+3. Once approved, I'll launch your website
+4. Leads and sales start rolling in!

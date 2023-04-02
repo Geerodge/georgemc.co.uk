@@ -13,6 +13,8 @@
         {% include "svg/clock.svg" %}
       {% elif  (product.data.icon == "libary") %}
         {% include "svg/libary.svg" %}
+      {% elif  (product.data.icon == "hardhat") %}
+        {% include "svg/hard-hat.svg" %}
       {% endif %}
       <h2>
         <a href="{{ product.data.directURL }}">{{ product.data.title }}</a>
