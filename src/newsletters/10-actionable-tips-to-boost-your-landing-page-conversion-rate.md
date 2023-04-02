@@ -39,7 +39,9 @@ So, how do you improve your conversion rate? Here are my 6 actionable tips.
 
 The headline is often the first thing visitors see when they reach your landing page, it's the most important part.
 
-Encourage visitors to take action and speak in their language. I'm not talking about English or Spanish - check through your testimonials or competitors' testimonials to get an idea of the words they use.
+Encourage visitors to take action and speak in their language.
+
+I'm not talking about English or Spanish - check through your testimonials or competitors' testimonials to get an idea of the words they use.
 
 - Be specific and direct
 - Avoid jargon and acronyms
