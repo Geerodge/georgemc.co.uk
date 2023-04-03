@@ -148,6 +148,6 @@ Tools for data driven landing page testing:
 ### Three Resources From Others
 
 1. [Prompt Engineering Daily](https://www.neatprompts.com/subscribe?ref=1V4jQw66hC) is a great newsletter showing you how to leverage AI prompts.
-2. [HARO](https://www.helpareporter.com/) is a great way to get quoted by journalists in major media websites, sometimes with links!
+2. [HARO](https://www.helpareporter.com/) is a great way to get quoted by journalists on major media websites, sometimes with links!
 3. [Learn how to build links](https://www.authorityhacker.com/307-exposing-how-our-dr-90-links-were-built/) a great podcast/video about link-building.
 
