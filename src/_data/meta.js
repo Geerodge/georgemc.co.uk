@@ -2,7 +2,7 @@ module.exports = {
   url: process.env.URL || 'http://localhost:8080',
   siteName: 'George McEntegart',
   siteDescription:
-    'Helping business owners understand their audience, drive traffic and get more sales.',
+    'I simplify marketing to help you grow your online business with clarity and confidence.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -20,13 +20,13 @@ module.exports = {
   },
   blog: {
     // this is for the rss feed
-    name: 'Audience and Traffic Growth for Business Owners',
+    name: 'Tools and Strategies That Grow Your Business - George McEntegart',
     description:
-      'Helping business owners understand their audience, drive traffic and get more sales.'
+      'Free guides, tools and frameworks to help you grow your online business.'
   },
   newsletters: {
     // this is for the rss feed
-    name: 'Understand Your Audience, Drive Traffic and Grow Your Business',
+    name: 'Tools and Strategies That Grow Your Business - George McEntegart',
     description:
       'Once a week you’ll get an email with my latest tips and insights that will help you grow your online business.'
   },
