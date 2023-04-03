@@ -45,7 +45,7 @@ I'm not talking about English or Spanish - check through your testimonials or co
 
 - Be specific and direct
 - Avoid jargon and acronyms
-- Use scarcity and urgency (psychology tricks)
+- Use scarcity and urgency ([psychology tricks](/newsletters/5-must-know-psychology-tricks-that-attract-customers-and-boost-sales/))
 
 *Check out my [twitter thread](https://twitter.com/geerodge/status/1626839993313288192?s=20) for more tips on crafting these profitable headlines.*
 
