@@ -3,7 +3,7 @@ title: Website Design
 subtitle: Responsive, Mobile-Friendly Web Design That Attracts Customers To Your Business
 description: "A website is essential for modern businesses to attract customers. Get your free web design quote today."
 seo:
-  title: "Website Design | George McEntegart"
+  title: "Responsive, Mobile-Friendly Web Design | George McEntegart"
   description: "A website is essential for modern businesses to attract customers. Get your free web design quote today."
 layout: consulting
 permalink: /consulting/website-design/index.html
