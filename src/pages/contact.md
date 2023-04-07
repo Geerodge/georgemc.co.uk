@@ -9,7 +9,7 @@ layout: contact
 permalink: /contact/index.html
 ---
 
-### Want to Work Together?
+### Let's Work Together
 
 Thank you for your interest in contacting me.
 

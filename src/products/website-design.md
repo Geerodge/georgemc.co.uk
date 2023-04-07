@@ -4,5 +4,5 @@ description: "I will design and develop a stunning, responsive, and user-friendl
 icon: "laptop"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
-directURL: "https://georgemc.net/consulting/#website-design"
+directURL: "https://georgemc.net/consulting/website-design/"
 ---

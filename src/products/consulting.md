@@ -4,5 +4,5 @@ description: "One-to-One calls to help you understand who and where your custome
 icon: "handshake"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: false
-directURL: "https://georgemc.net/consulting/#goals-and-growth-consulting"
+directURL: "https://georgemc.net/consulting/goals-and-growth/"
 ---
