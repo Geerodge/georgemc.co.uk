@@ -41,8 +41,8 @@ To figure out which direction is right for you, create a business statement.
 
 It should include two key points:
 
-- Specific business objectives - S*ell 20 products*
-- Have a deadline - E*very month*
+- Specific business objectives - *Sell 20 products*
+- Have a deadline - *Every month*
 
 Don't feel stuck to this, these can evolve as your business grows.
 

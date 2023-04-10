@@ -84,7 +84,7 @@ What you're really selling is this emotional transformation.
 
 Your product or service is how that transformation is made, and they can buy it with cold hard cash.
 
-*Read more about [why customer buy](/newsletters/why-customers-buy-and-the-levers-you-can-use/) from a previous article.*
+*Read more about [why customers buy](/newsletters/why-customers-buy-and-the-levers-you-can-use/) from a previous article.*
 
 
 &nbsp;
