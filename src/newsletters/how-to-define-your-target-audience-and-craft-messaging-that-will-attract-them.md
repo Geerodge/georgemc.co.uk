@@ -119,8 +119,6 @@ You can also explore competitor reviews for the language and words they use. Ama
 &nbsp;
 ### Three Resources From Others
 
-This week I wanted to share 3 books that I've recently read and are full of value.
-
-1. [The Art and Business of Online Writing](https://amzn.to/3JNFSNC) by [Nicolas Cole](https://twitter.com/Nicolascole77)
-2. [Commonsense Direct and Digital Marketing](https://amzn.to/3JDcsla) by Drayton Bird
-3. [Persuasion Skills Black Book](https://amzn.to/3z4liUe) by Rintu Basu
+1. [Twitter Growth Engine](https://edwardlatimore.gumroad.com/l/engine) bundle (free!)
+2. [$500 Giveaway for growing your business](https://giveaway.get8am.com/) ends today!
+3. [The Truth About Consistency...](https://www.youtube.com/watch?v=G3AoDm1Ep6Y&ab_channel=JayClouse)
