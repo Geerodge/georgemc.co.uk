@@ -1,10 +1,10 @@
 ---
-title: "11 Marketing Principles Every Business Should Know"
-description: "Learn the 11 must-know marketing principles to help your business succeed. From understanding why customers buy to pricing your product, these principles cover it all."
+title: "11 Quick Marketing Principles Every Business Should Know"
+description: "Learn the 11 quick marketing principles to help your business succeed. From understanding why customers buy to pricing your product, these principles cover it all."
 seo:
-    title: "11 Marketing Principles Every Business Should Know"
-    description: "Learn these 11 must-know marketing principles to help your business succeed. From understanding why customers buy to pricing your product."
-date: 2023-04-02
+    title: "11 Quick Marketing Principles Every Business Should Know"
+    description: "Learn these 11 quick marketing principles to help your business succeed. From understanding why customers buy to pricing your product."
+date: 2023-04-09
 layout: "post"
 ---
 
@@ -14,33 +14,35 @@ layout: "post"
 
 {% imagePlaceholder "./src/assets/images/newsletter/11-marketing-must-know-principles.jpg", "Hand holding a lightbulb, which reflects the ideas of marketing that works." %}
 
-Learn these 11 must-know marketing principles to help your business succeed. 
+Learn these 11 quick marketing principles to help your business succeed. 
 
 From understanding why customers buy to pricing your product, these principles cover it all.
 
 &nbsp;
 ## Why Customers Buy
 
-Marketing is 9% logic, 91% emotion.
+Marketing is [9% logic, 91% emotion](https://twitter.com/geerodge/status/1625178516751892495).
 
-People buy for emotional reasons.
+We buy things based on emotion and justify it with logic afterwards.
 
 Communicate clearly how you solve your customers problems, and know that reason intrinsically.
 
 No amount of marketing will sell a product that fails to solve a problem.
 
+*Learn more about [why customers buy](https://georgemc.net/newsletters/why-customers-buy-and-the-levers-you-can-use/)*
+
 &nbsp;
 ## Sell the Transformation
 
-People don’t buy products.
+People don't buy products.
 
-People don’t buy features.
+People don't buy features.
 
-They buy into stories.
+They buy
 
-Tell them how you’ll transform their lives.
+Tell them how you'll transform their lives.
 
-Don’t just offer discounts and offers.
+Don't just offer discounts and offers.
 
 Build a relationship with your customers.
 
@@ -53,7 +55,7 @@ Use it to peak curiosity and draw interest.
 
 Repeat it everywhere.
 
-One day it’ll be your most valuable asset.
+One day it'll be your most valuable asset.
 
 &nbsp;
 ## Segment Your Customers
@@ -74,9 +76,9 @@ Planning is key.
 
 But without action and consistency.
 
-It’s pointless.
+It's pointless.
 
-You’ve got be patient and stick to the plan, using data to guide you.
+You've got be patient and stick to the plan, using data to guide you.
 
 &nbsp;
 ## Know Your Who, What and Why
@@ -104,9 +106,9 @@ Better yet.
 Change them to “you” or “your”.
 
 &nbsp;
-## Don’t Be Clever, Be Clear
+## Don't Be Clever, Be Clear
 
-Don’t leave your customers confused.
+Don't leave your customers confused.
 
 Be clear and straight forward.
 
@@ -149,7 +151,7 @@ Deepen your customer relationship.
 &nbsp;
 ## Always Price to Value
 
-Don’t base your price off the time it took you to produce.
+Don't base your price off the time it took you to produce.
 
 Or the cost of delivery.
 

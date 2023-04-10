@@ -1,5 +1,5 @@
 ---
-title: "Boost & Build Newsletter"
+title: "Business Boost & Build Newsletter"
 subtitle: "Ideas That Simplify Marketing and Help You Grow Your Online Business"
 description: "Once a week you'll get an email that will help you grow your online business. It includes one tip from me and three resources from others."
 subcontent: "It includes one tip from me and three resources from others."
