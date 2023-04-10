@@ -4,7 +4,7 @@ description: "There are many tools that can save you time and energy down the ro
 seo:
     title: "Tools for Online Entrepreneurs | George McEntegart"
     description: "There are many tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly."
-date: 2023-03-07
+date: 2023-04-10
 layout: "post"
 ---
 
