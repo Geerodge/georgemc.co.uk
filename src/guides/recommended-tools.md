@@ -26,7 +26,6 @@ I will add to these as I get time and find more, so make sure you check back her
 ## Social Media Tools
 
 - **[Hypefury](https://hypefury.com/?via=george-mcentegart27)** Your personal assistant to grow and monetize your Twitter audience, it's epic. Try it free for 14 days!
-- **[ilo.so](https://ilo.so/?via=geerodge)** The best Twitter analytics tool out there. 10% lifetime discount with this link!
 
 &nbsp;
 ## Emails and Newsletters
