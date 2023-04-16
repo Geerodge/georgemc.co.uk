@@ -172,7 +172,7 @@ This image is pretty hard to read, but you can view and duplicate it [on Notion 
 
 Create an easily marketable tagline for your profile.
 
-It needs to clearly explain exactly what you do and why people should follow you.
+Clearly explain exactly what you do and why people should follow you.
 
 Here is my profile:
 
