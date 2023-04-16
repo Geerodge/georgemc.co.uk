@@ -133,7 +133,7 @@ You'll notice I usually post pictures of my Sunday walks - it shows I'm a real p
 &nbsp;
 ## 5/ Bring It All Together
 
-Breakdown your value propositions into content buckets, lets use my values as an example:
+Breakdown your value propositions into content buckets explaining how you will provide value, lets use my values as an example:
 
 **Value:** Provide solutions to their problems directly
 **How:** Actionable ready-to-implement advice and AMA's (ask me anything)
