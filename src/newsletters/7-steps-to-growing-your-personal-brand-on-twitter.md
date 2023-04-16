@@ -22,7 +22,7 @@ The hardest part of Twitter is staying consistent.
 
 In the beginning it's a real grind. In fact, someone DM'd me the perfect sentence that explains how it feels:
 
-“Honestly feel like I'm tweeting gold into a forest.”
+**"Honestly feel like I'm tweeting gold into a forest."**
 
 I'm currently growing my own personal brand (from scratch) on Twitter, so I know what it feels like.
 
