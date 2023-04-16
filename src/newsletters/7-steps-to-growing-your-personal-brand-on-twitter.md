@@ -164,7 +164,7 @@ Here is my content breakdown and calendar:
 
 {% imagePlaceholder "./src/assets/images/newsletter/content-breakdown-and-schedule.png", "Content breakdown and schedule" %}
 
-This image is pretty hard to read, but you can view it and duplicate it [on Notion here](https://picturesque-rook-66c.notion.site/Content-Breakdown-and-Schedule-38d1d51753ef49658a6667118c0ecf94)
+This image is pretty hard to read, but you can view and duplicate it [on Notion here](https://picturesque-rook-66c.notion.site/Content-Breakdown-and-Schedule-38d1d51753ef49658a6667118c0ecf94)
 
 
 &nbsp;
