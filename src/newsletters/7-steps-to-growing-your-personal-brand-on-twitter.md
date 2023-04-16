@@ -186,8 +186,6 @@ Make use of the banner to promote how you help people, I take the opportunity to
 
 Notice that my profile matches my website colours as well.
 
-Inspired by Justin Welsh and Dick Bush.
-
 &nbsp;
 ### Three Resources From Others
 
