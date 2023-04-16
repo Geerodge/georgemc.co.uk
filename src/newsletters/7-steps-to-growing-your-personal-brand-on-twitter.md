@@ -1,9 +1,9 @@
 ---
 title: "7 Steps to Growing Your Personal Brand on Twitter"
-description: ""
+description: "Learn how to grow your personal brand on Twitter with these 7 easy steps. From optimizing your profile to engaging with your audience, and content to post."
 seo:
-    title: "7 Steps to Growing Your Personal Brand on Twitter | George McEntegart"
-    description: ""
+    title: "7 Steps to Growing Your Personal Brand on Twitter | George Mc"
+    description: "Learn how to grow your personal brand on Twitter with these 7 easy steps. From optimizing your profile to engaging with your audience, and content to post."
 date: 2023-04-16
 layout: "post"
 ---
