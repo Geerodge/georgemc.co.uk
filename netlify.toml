@@ -27,3 +27,8 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
+
+[[redirects]]
+from   = "/blog/the-importance-of-a-standard-dev-environment/"
+to     = "http://georgemc.net/the-importance-of-a-standard-dev-environment"
+status = 200
