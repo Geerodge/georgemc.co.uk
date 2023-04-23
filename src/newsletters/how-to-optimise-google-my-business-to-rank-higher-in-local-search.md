@@ -10,6 +10,10 @@ layout: "post"
 
 **Estimated reading time:** 3 minutes, 39 seconds.
 
+*This is an article from [The Business Boost & Build Newsletter](/newsletter)*. 
+
+*It's once a week and includes one tip from me and three resources from others.*
+
 {% imagePlaceholder "./src/assets/images/newsletter/how-to-optimise-google-my-business-to-rank-higher-in-local-search.jpg", "How to Optimise Google My Business to Rank Higher in Local Search" %}
 
 Rank higher and attract more local customers with these Google Business Profile optimisations — I'll show you how I do it.
