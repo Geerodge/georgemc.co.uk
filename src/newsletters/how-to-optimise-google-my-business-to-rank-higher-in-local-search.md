@@ -8,6 +8,8 @@ date: 2023-04-23
 layout: "post"
 ---
 
+**Estimated reading time:** 3 minutes, 39 seconds.
+
 {% imagePlaceholder "./src/assets/images/newsletter/how-to-optimise-google-my-business-to-rank-higher-in-local-search.jpg", "How to Optimise Google My Business to Rank Higher in Local Search" %}
 
 Rank higher and attract more local customers with these Google Business Profile optimisations — I'll show you how I do it.
