@@ -6,10 +6,10 @@ seo:
     description: "Standardized development environments are a good thing, all praise Docker."
 date: 2022-11-28
 layout: "post"
-permalink: "the-importance-of-a-standard-dev-environment"
+permalink: "the-importance-of-a-standard-dev-environment/"
 ---
 
-{% imagePlaceholder "./src/assets/images/newsletter/the-importance-of-a-standard-development-environment.jpg", "Keyword research" %}
+{% imagePlaceholder "./src/assets/images/newsletter/the-importance-of-a-standard-development-environment.jpg", "The Importance of a Standard Development Environment" %}
 
 This week I've been trying to get setup to work on a project with a friend of mine.
 
