@@ -1,4 +1,4 @@
-.sidebar {
+/* .sidebar {
   align-items: var(--sidebar-content-align-items,normal);
   display: flex;
   flex-wrap: wrap;
@@ -58,4 +58,4 @@
 
 .sidebar-actual h3 {
   font-size: var(--size-step-2);
-}
+} */

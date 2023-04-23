@@ -12,22 +12,21 @@ layout: base
   {% include "svg/divider-waves.svg" %}
 </header>
 
-<article class="section region">
-  <div class="about-me wrapper">
-    <div class="wrapper flow prose about-image">
-      {% imagePlaceholder about.image, about.alt %}
-    </div>
-    <div class="wrapper flow prose">
-      <h2 class="gradient-text">{{ title }} Me</h2>
-      <p>{{ about.intro }}</p>
-      <p><mark>{{ about.highlight }}</mark>{{ about.postHighlight }}</p>
-      <p>{{ about.quote }}</p>
-    </div>
-  </div>
-</article>
-
 <article class="section region" style="--region-space-top: var(--space-xs)">
-  <div class="wrapper flow prose about">
-      {{ content | safe }}
+  <div class="wrapper flow prose about content">
+
+    <section class="breakout relative">
+      <div class="sidebar my-l-xl flow">
+        <header class="flow mr-xs">
+          {% imagePlaceholder "./src/assets/images/about/george-mcentegart.jpg", "George McEntegart", "", "(min-width: 820px) 820px, 100vw" %}
+        </header>
+        <span class="flow">
+          <h2>{{ breakout.title }}</h2>
+          <p>{{ breakout.intro }}</p>
+        </span>
+      </div>
+    </section>
+
+    {{ content | safe }}
   </div>
 </article>

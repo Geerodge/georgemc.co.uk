@@ -1,14 +1,10 @@
 ---
-title: About
+title: About Me
 subtitle: "I Simplify Marketing to Help You Grow Your Online Business With Clarity and Confidence"
 description: "I will help you grow your online business and earn more money by taking the guesswork out of your marketing."
-about:
+breakout:
+  title: "George McEntegart"
   intro: "I'm a New Zealand-born digital marketing expert based in the United Kingdom."
-  highlight: "I will help you grow your business and earn more money"
-  postHighlight: ", by taking the guesswork out of your marketing."
-  image: "./src/assets/images/about/george-mcentegart.jpg"
-  alt: "George McEntegart"
-  quote: "Over the past 10 years, I've helped hundreds of business owners and entrepreneurs understand their audience and create websites and emails that actually convert."
 seo:
   title: "About - Grow Your Business With Clarity | George McEntegart"
   description: "I will help you grow your business and earn more money by taking the guesswork out of your marketing."
@@ -16,6 +12,16 @@ layout: "about"
 permalink: /about/index.html
 ---
 
+I will help you grow your business and earn more money, by taking the guesswork out of your marketing.
+
+Over the past 10+ years, I've helped hundreds of business owners and entrepreneurs with...
+
+- Full marketing strategy
+- Search engine optimisation (SEO)
+- Conversion page optimisation
+- and more...
+
+&nbsp;
 ### How Can I Help You Grow Your Business?
 
 I'll take the guesswork out of your marketing so you can confidently grow your business with clarity.

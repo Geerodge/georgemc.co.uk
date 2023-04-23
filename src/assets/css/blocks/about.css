@@ -4,21 +4,30 @@
   margin-right: auto;
 }
 
-.about-me {
+/* .about header {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+} */
+
+.about .sidebar > :first-child {
+  flex-basis: var(--sidebar-target-width,48%);
 }
 
-img {
-  height: auto;
-  max-width: 100%;
+.about img {
+  border-radius: 15px 50px;
+  margin: 0 auto;
 }
 
-.about-image {
+/* .about-image {
   margin-bottom: 2em;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px var(--color-dark) solid;
 }
 
-/* h3#want-to-grow-your-business-and-earn-more {
+h3#want-to-grow-your-business-and-earn-more {
   margin-top: 1em;
 }
 

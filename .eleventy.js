@@ -22,14 +22,18 @@ const {
   minifyCss,
   minifyJs,
   mdInline,
-  splitlines
+  splitlines,
 } = require('./config/filters/index.js');
 
 // module import shortcodes
 const {
   imageShortcodePlaceholder,
+  imageShortcode,
   includeRaw,
-  liteYoutube
+  liteYoutube,
+  asideShortcode,
+  breakoutShortcode,
+  insertionShortcode,
 } = require('./config/shortcodes/index.js');
 
 // module import collections
@@ -85,13 +89,18 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
+  
 
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
+  eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
   eleventyConfig.addShortcode('youtube', liteYoutube);
   eleventyConfig.addShortcode('include_raw', includeRaw);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`); // current year, stephanie eckles
   eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
+  eleventyConfig.addPairedShortcode('aside', asideShortcode);
+  eleventyConfig.addPairedShortcode('breakout', breakoutShortcode);
+  eleventyConfig.addPairedShortcode('insertion', insertionShortcode);
 
   // 	--------------------- Custom transforms ---------------------
   eleventyConfig.addPlugin(require('./config/transforms/html-config.js'));

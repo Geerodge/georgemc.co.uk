@@ -1,6 +1,6 @@
 {
   "name": "eleventy-excellent",
-  "version": "1.4.5",
+  "version": "1.4.8",
   "engines": {
     "node": ">=16.x.x"
   },
@@ -52,6 +52,7 @@
     "markdown-it-prism": "^2.3.0",
     "netlify-plugin-cache": "^1.0.3",
     "npm-run-all": "^4.1.5",
+    "outdent": "^0.8.0",
     "postcss": "^8.4.8",
     "postcss-cli": "^10.0.0",
     "postcss-import": "^15.0.0",
