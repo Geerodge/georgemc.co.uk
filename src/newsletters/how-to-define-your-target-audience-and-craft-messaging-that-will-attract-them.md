@@ -12,10 +12,6 @@ layout: "post"
 
 *It's once a week and includes one tip from me and three resources from others.*
 
-**This Weeks Tip**
-
-*How to define your audience and craft messaging that attracts them*
-
 {% imagePlaceholder "./src/assets/images/newsletter/target-audience.jpg", "Dart in bullseye" %}
 
 Your audience is who you serve and how you serve them.

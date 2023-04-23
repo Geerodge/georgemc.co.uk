@@ -12,10 +12,6 @@ layout: "post"
 
 *It's once a week and includes one tip from me and three resources from others.*
 
-**This Weeks Tip**
-
-*7 steps to growing your personal brand on Twitter*
-
 {% imagePlaceholder "./src/assets/images/newsletter/growing-your-personal-brand-on-twitter.jpg", "7 steps to growing your personal brand on Twitter" %}
 
 The hardest part of Twitter is staying consistent.
