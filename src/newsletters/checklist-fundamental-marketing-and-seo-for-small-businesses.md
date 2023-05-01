@@ -22,7 +22,7 @@ It's the bare minimum for growing your business online.
 
 With this checklist in place, you will:
 
-- Have analytics and KPIs to track your performance over time
+- Have analytics to track your performance over time
 - Capture audience data for running ads
 - Own customer data to promote your business for free
 - Get the opportunity to show up in Google Maps results
@@ -33,7 +33,7 @@ With this checklist in place, you will:
 &nbsp;
 ## Install Google Tag Manager, Google Analytics (Plus Ecommerce Data)
 
-I find using [Google Tag Manager](https://tagmanager.google.com/) the easiest way to manage all my website tracking, analytics and pixels all in one place.
+I find using [Google Tag Manager](https://tagmanager.google.com/) the easiest way to manage my website tracking, analytics and pixels all in one place.
 
 It's completely free, and takes only a few minutes to set up (if you know what you're doing).
 
