@@ -8,6 +8,8 @@ date: 2023-05-14
 layout: "post"
 ---
 
+**Estimated reading time:** 4 minutes, 35 seconds. Contains 919 words
+
 *This is an article from [The Business Boost & Build Newsletter](/newsletter)*. 
 
 *It's once a week and includes one tip from me and three resources from others.*
