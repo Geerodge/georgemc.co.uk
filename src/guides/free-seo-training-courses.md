@@ -72,13 +72,13 @@ Ahrefs provide SEO tools (I've spoken about [SEO tools I recommend here](/guides
 
 The course starts as if you know absolutely nothing and guides you through the basics of keyword research, page optimization, and beginning technical SEO.
 
-Check out the [Ahrefs course here](https://academy.hubspot.com/courses/seo-training).
+Check out the [Ahrefs course here](https://ahrefs.com/academy/seo-training-course).
 
 ### SEO Certification Course (HubSpot)
 
 HubSpot are a marketing and sales software developer. They have a course that covers the basics of SEO, building links, and performing keyword research.
 
-Check out the [HubSpot course here](https://ahrefs.com/academy/seo-training-course).
+Check out the [HubSpot course here](https://academy.hubspot.com/courses/seo-training).
 
 ### Free SEO Training: SEO For Beginners (Yoast)
 
