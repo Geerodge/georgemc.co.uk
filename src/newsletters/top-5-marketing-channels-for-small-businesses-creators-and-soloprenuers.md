@@ -4,7 +4,7 @@ description: "Discover the top digital marketing channels for small businesses, 
 seo:
     title: "Top 5 Marketing Channels for Businesses & Soloprenuers"
     description: "Discover the top digital marketing channels for small businesses, creators, and solopreneurs to grow your online presence and attract more customers."
-date: 2023-05-08
+date: 2023-05-14
 layout: "post"
 ---
 
