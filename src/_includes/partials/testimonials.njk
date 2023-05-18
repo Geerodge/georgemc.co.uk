@@ -4,6 +4,13 @@
   <li>
     <h3>{{ testimonial.data.title }}</h3>
     <h4>{{ testimonial.data.company }}</h4>
+    <div class="stars">
+      {% include "svg/star.svg" %}
+      {% include "svg/star.svg" %}
+      {% include "svg/star.svg" %}
+      {% include "svg/star.svg" %}
+      {% include "svg/star.svg" %}
+    </div>
     <blockquote>
       <p>{{ testimonial.data.description }}</p>
     </blockquote>

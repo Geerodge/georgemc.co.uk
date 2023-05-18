@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 seo:
-  title: Privacy Policy | George McEntegart
+  title: Privacy Policy / George McEntegart
 description: I respect the EU General Data Protection Regulation (GDPR). This policy document explains how I collect and handle any information you provide to me.
 layout: page
 permalink: /privacy/index.html

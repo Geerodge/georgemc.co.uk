@@ -1,10 +1,10 @@
 ---
 title: Contact
-description: "If you want to work together or need some help and advice, feel free to contact me directly using the details here."
+description: "Contact me today to find out how I can support your digital marketing strategy and grow your business."
 subtitle: "I Will Help You Grow Your Business With Clarity and Confidence"
 seo:
-  title: "Contact | George McEntegart"
-  description: "I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business. Find my contact details here."
+  title: "Contact / George McEntegart"
+  description: "Contact me today to find out how I can support your digital marketing strategy and grow your business."
 layout: contact
 permalink: /contact/index.html
 ---

@@ -1,10 +1,10 @@
 ---
-title: Website Design
+title: Website Design & Development
 subtitle: Responsive, Mobile-Friendly Web Design That Attracts Customers To Your Business
-description: "A website is essential for modern businesses to attract customers. Get your free web design quote today."
+description: "I will design and develop a stunning, responsive, and user-friendly website that showcases your brands personality and help you thrive in the digital world."
 seo:
-  title: "Website Design That Attracts Customers | George McEntegart"
-  description: "A website is essential for modern businesses to attract customers. Get your free web design quote today."
+  title: "Website Design & Development / George McEntegart"
+  description: "I will design and develop a stunning, responsive, and user-friendly website that showcases your brands personality and help you thrive in the digital world."
 layout: consulting
 permalink: /consulting/website-design/index.html
 ---

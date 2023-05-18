@@ -19,3 +19,7 @@
 .testimonials li blockquote p {
   font-style: italic;
 }
+.testimonials .stars {
+  text-align: center;
+  margin-bottom: 1em;
+}

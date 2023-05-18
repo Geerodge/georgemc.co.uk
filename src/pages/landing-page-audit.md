@@ -1,10 +1,10 @@
 ---
-title: Landing Page Audit
+title: Landing Page & Conversion Rate Audit
 subtitle: 20-Minute Private Video With Easy-To-Implement Advice That Will Improve Your Landing Page Conversion Rate
-description: "A 20-minute, private video with easy-to-implement advice that will improve your landing page conversion rate."
+description: "A 20-minute, private video with easy-to-implement advice that will improve your landing page conversion rate, giving you more leads and customers."
 seo:
-  title: "Landing Page Conversion Rate Audit | George McEntegart"
-  description: "A 20-minute, private video with easy-to-implement advice that will improve your landing page conversion rate."
+  title: "Landing Page Conversion Rate Audit / George McEntegart"
+  description: "A 20-minute, private video with easy-to-implement advice that will improve your landing page conversion rate, giving you more leads and customers."
 layout: consulting
 permalink: /consulting/landing-page-audit/index.html
 ---

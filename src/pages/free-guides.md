@@ -1,10 +1,10 @@
 ---
 title: Free Guides
-description: "Free guides and resources to help you grow your business."
-subtitle: "Free Guides, Tools and Frameworks to Help You Grow Your Online Business"
+description: "Free digital marketing guides, tools and frameworks to help you grow your business. Actionable advice for business owners, entrepreneurs and solopreneurs."
+subtitle: "Free Guides, Tools and Frameworks to Help You Grow Your Business Online"
 seo:
-  title: "Free Guides & Tools For Business Growth | George McEntegart"
-  description: "Free guides, tools and frameworks to help you grow your online business. Marketing, sales and psychology hacks."
+  title: "Free Digital Marketing Guides and Tools / George McEntegart"
+  description: "Free digital marketing guides, tools and frameworks to help you grow your business. Actionable advice for business owners, entrepreneurs and solopreneurs."
 layout: free-guides
 permalink: /free-guides/index.html
 redirectFrom: ['/products/free-guides/']

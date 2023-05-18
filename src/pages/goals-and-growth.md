@@ -1,10 +1,10 @@
 ---
-title: Goals and Growth Consulting
-subtitle: I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business
-description: "One-to-One strategy calls where I help you gain clarity and achieve your goals, so you can grow your business."
+title: Digital Marketing Consultancy
+subtitle: "I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business"
+description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your digital marketing goals."
 seo:
-  title: "Goals and Growth Consulting | George McEntegart"
-  description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your goals."
+  title: "Digital Marketing Consultancy / George McEntegart"
+  description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your digital marketing goals."
 layout: consulting
 permalink: /consulting/goals-and-growth/index.html
 ---
