@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: "I Simplify Marketing to Help You Grow Your Online Business With Clarity and Confidence"
-description: "I will help you grow your online business and earn more money by taking the guesswork out of your marketing."
+description: "New Zealand-born digital marketing expert based in the United Kingdom. I will help you grow your business by taking the guesswork out of your marketing."
 breakout:
   title: "George McEntegart"
   intro: "I'm a New Zealand-born digital marketing expert based in the United Kingdom."
