@@ -6,8 +6,8 @@ breakout:
   title: "George McEntegart"
   intro: "I'm a New Zealand-born digital marketing expert based in the United Kingdom."
 seo:
-  title: "About - Grow Your Business With Clarity | George McEntegart"
-  description: "I will help you grow your business and earn more money by taking the guesswork out of your marketing."
+  title: "About / George McEntegart"
+  description: "New Zealand-born digital marketing expert based in the United Kingdom. I will help you grow your business by taking the guesswork out of your marketing."
 layout: "about"
 permalink: /about/index.html
 ---

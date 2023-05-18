@@ -1,10 +1,10 @@
 ---
 title: Work With Me
 subtitle: I Can Help You Gain Clarity and Achieve Your Goals So You Can Grow Your Business
-description: "One-to-One strategy calls where I help you gain clarity and achieve your goals, so you can grow your business."
+description: "Helping business owners, creators and entrepreneurs gain clarity and achieve their goals with digital marketing. Strategy calls, SEO, web design and more."
 seo:
-  title: "Work With Me | George McEntegart"
-  description: "One-to-One strategy calls where I help business owners, creators and entrepreneurs gain clarity and achieve their goals, so they can grow their business."
+  title: "Digital Marketing for Small Businesses - Work With Me / GMC"
+  description: "Helping business owners, creators and entrepreneurs gain clarity and achieve their goals with digital marketing. Strategy calls, SEO, web design and more."
 layout: consulting
 permalink: /consulting/index.html
 ---
