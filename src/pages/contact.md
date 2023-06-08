@@ -13,7 +13,7 @@ permalink: /contact/index.html
 
 Thank you for your interest in contacting me.
 
-Send an email to [contact@georgemc.net](mailto:contact@georgemc.net) with the following:
+Send an email to [contact@georgemc.co.uk](mailto:contact@georgemc.co.uk) with the following:
 
 - Full name
 - Best contact number

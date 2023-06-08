@@ -88,7 +88,7 @@ When you have a verified Google My Business profile, you have the chance to show
 
 This is still such an easy quick win in 2023, which kind of blows my mind. [Get your account here](https://www.google.com/intl/en_uk/business/).
 
-In one of my recent newsletter articles I talk about [how to get verified and optimise your Google My Business profile](https://georgemc.net/newsletters/how-to-optimise-google-my-business-to-rank-higher-in-local-search/). I recommend reading it and following the steps.
+In one of my recent newsletter articles I talk about [how to get verified and optimise your Google My Business profile](/newsletters/how-to-optimise-google-my-business-to-rank-higher-in-local-search/). I recommend reading it and following the steps.
 
 
 &nbsp;
@@ -130,9 +130,9 @@ You should also add CTA's in your website copy, again making them obvious and di
 
 Some resources I have about improving your website to get more enquiries:
 
-- [Website checklist](https://georgemc.net/guides/website-checklist/)
-- [Site speed checklist](https://georgemc.net/guides/site-speed-optimisation-checklist/)
-- [Improving your website conversion rate](https://georgemc.net/newsletters/6-actionable-tips-to-boost-your-landing-page-conversion-rate/)
+- [Website checklist](/guides/website-checklist/)
+- [Site speed checklist](/guides/site-speed-optimisation-checklist/)
+- [Improving your website conversion rate](/newsletters/6-actionable-tips-to-boost-your-landing-page-conversion-rate/)
 
 
 &nbsp;
@@ -153,7 +153,7 @@ Here are a few tips:
 - Use social media analytics to see what resonates with your audience
 - Optimise your profile and have a long term strategy
 
-If you're using Twitter, check out my recent article about [growing your brand on Twitter](https://georgemc.net/newsletters/7-steps-to-growing-your-personal-brand-on-twitter/).
+If you're using Twitter, check out my recent article about [growing your brand on Twitter](/newsletters/7-steps-to-growing-your-personal-brand-on-twitter/).
 
 
 &nbsp;

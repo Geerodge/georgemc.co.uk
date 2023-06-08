@@ -60,7 +60,7 @@ Once you're clear on your goals, you can then define success and won't be distra
 
 **My goal**: *Grow subscribers to my Business Boost and Build Newsletter*
 
-*Read more about [creating clear goals](https://georgemc.net/newsletters/how-to-create-clear-goals-and-build-a-successful-online-business/).*
+*Read more about [creating clear goals](/newsletters/how-to-create-clear-goals-and-build-a-successful-online-business/).*
 
 
 ### Side Note: Twitter Is a Rented Platform
@@ -84,7 +84,7 @@ People won't follow for no reason, you need to provide value.
 
 Ask yourself what value you provide? More precisely, *what problem are you helping people solve?*
 
-*Read more about [defining your ideal audience](https://georgemc.net/newsletters/how-to-define-your-target-audience-and-craft-messaging-that-will-attract-them/).*
+*Read more about [defining your ideal audience](/newsletters/how-to-define-your-target-audience-and-craft-messaging-that-will-attract-them/).*
 
 Don't feel stuck in this answer.
 

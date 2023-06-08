@@ -30,5 +30,5 @@ package = "netlify-plugin-cache"
 
 [[redirects]]
 from   = "/blog/the-importance-of-a-standard-dev-environment/"
-to     = "http://georgemc.net/the-importance-of-a-standard-dev-environment"
+to     = "http://georgemc.co.uk/the-importance-of-a-standard-dev-environment"
 status = 200

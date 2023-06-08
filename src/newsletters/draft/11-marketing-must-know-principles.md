@@ -29,7 +29,7 @@ Communicate clearly how you solve your customers problems, and know that reason 
 
 No amount of marketing will sell a product that fails to solve a problem.
 
-*Learn more about [why customers buy](https://georgemc.net/newsletters/why-customers-buy-and-the-levers-you-can-use/)*
+*Learn more about [why customers buy](/newsletters/why-customers-buy-and-the-levers-you-can-use/)*
 
 &nbsp;
 ## Sell the Transformation

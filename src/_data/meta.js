@@ -8,8 +8,8 @@ module.exports = {
   lang: 'en',
   skipContent: 'Skip to content',
   author: 'George McEntegart', // i.e. Lene Saile - author's name. Must be set.
-  authorEmail: 'contact@georgemc.net', // i.e. hola@lenesaile.com - email of the author
-  authorWebsite: 'https://georgemc.net', // i.e. https.://www.lenesaile.com - the personal site of the author
+  authorEmail: 'contact@georgemc.co.uk', // i.e. hola@lenesaile.com - email of the author
+  authorWebsite: 'https://georgemc.co.uk', // i.e. https.://www.lenesaile.com - the personal site of the author
   themeColor: '#557a95', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
@@ -48,7 +48,7 @@ module.exports = {
     postcode: 'BN14 7DP',
     mobileDisplay: '+44 7899890634',
     mobileCall: '+447899890634',
-    email: 'contact@georgemc.net',
+    email: 'contact@georgemc.co.uk',
     cif: ''
   },
   menu: {

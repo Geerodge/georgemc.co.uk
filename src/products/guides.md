@@ -4,5 +4,5 @@ description: "Free guides, tools, frameworks and resources that I've used with h
 icon: "libary"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
-directURL: "https://georgemc.net/free-guides/"
+directURL: "https://georgemc.co.uk/free-guides/"
 ---

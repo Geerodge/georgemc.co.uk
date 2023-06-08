@@ -4,5 +4,5 @@ description: "A 20-minute, private video with easy-to-implement advice that will
 icon: "hardhat"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
-directURL: "https://georgemc.net/consulting/landing-page-audit/"
+directURL: "https://georgemc.co.uk/consulting/landing-page-audit/"
 ---
