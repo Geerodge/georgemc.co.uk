@@ -19,10 +19,12 @@ Send an email to [contact@georgemc.co.uk](mailto:contact@georgemc.co.uk) with th
 - Best contact number
 - What you need
 
+Alternatively, you can call me on [07899 890634](tel:07899890634).
+
 You can read more about [the services I provide here](/consulting).
 
 #### Have a Question?
 
 If you have a quick question, you can also find me on Twitter [@Geerodge](https://twitter.com/geerodge).
 
-You may also be interested in my weekly newsletter [Business Boost & Build](/newsletter) where I simplify marketing ideas that will help you grow your business.
+You may be interested in my weekly newsletter [Business Boost & Build](/newsletter) where I simplify marketing ideas that will help you grow your business.
