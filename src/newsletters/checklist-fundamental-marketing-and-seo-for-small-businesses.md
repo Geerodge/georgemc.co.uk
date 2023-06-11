@@ -41,9 +41,13 @@ Once Google Tag Manager is working, you're able to add tracking code and trigger
 
 Read more about [getting Tag Manager set up here](https://support.google.com/tagmanager/answer/6103696?hl=en), from Google.
 
+You can also follow my [quick Google Tag Manager and GA4 guide here](/newsletters/how-to-set-up-google-analytics-4-in-30-minutes-or-less/).
+
 Once that is working, you'll be able to add Google Analytics 4, and any social media pixels you need. Facebook, Twitter, Quora, Adwords, LinkedIn, Reddit, etc all have their own.
 
-This is a great in depth walk through of [setting up GA4 with Ecommerce tracking](https://www.optimizesmart.com/how-to-set-up-ecommerce-tracking-in-ga4-google-analytics-4/), if you're technically inclined. Otherwise I'll be more than happy to help you set this up, [contact me here](/contact/).
+This is a great in depth walk through of [setting up GA4 with Ecommerce tracking](https://www.optimizesmart.com/how-to-set-up-ecommerce-tracking-in-ga4-google-analytics-4/), if you're technically inclined.
+
+Otherwise I'll be more than happy to help you set this up, just [send me a message](/contact/).
 
 
 &nbsp;

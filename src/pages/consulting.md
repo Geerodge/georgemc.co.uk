@@ -26,3 +26,4 @@ There are three options:
 1. [Goals and Growth Consulting](/consulting/goals-and-growth/)
 2. [Landing Page Conversion Audit](/consulting/landing-page-audit/)
 3. [Website Design and Development](/consulting/website-design/)
+4. [Google Business Profile Management](/consulting/gmb-management/)
