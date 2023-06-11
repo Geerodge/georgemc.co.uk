@@ -77,8 +77,6 @@ This is a very basic set-up of GA4 and there is plenty more you can do, which I'
 &nbsp;
 ### Three Resources From Others
 
-This week I wanted to share 3 books that I've recently read and are full of value.
-
 1. [How to create a content flywheel with podcasts](https://twitter.com/nathanbarry/status/1666454820696276993?s=20)
 2. [7-step formula copywriting formula](https://www.linkedin.com/posts/eshleyner_vgc-bob-stones-gem-activity-7072553578971746304-kXKh/)
 3. [8 types of subject lines that get high open rates](https://twitter.com/thePhilRivers/status/1499054468654145544?s=20)
