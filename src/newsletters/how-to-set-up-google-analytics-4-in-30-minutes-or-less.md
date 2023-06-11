@@ -14,7 +14,7 @@ layout: "post"
 
 {% imagePlaceholder "./src/assets/images/newsletter/website-analytics.jpg", "Google Analytics 4 (GA4)" %}
 
-[Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en) is ready to go and [Universal Analytics being shutdown](https://support.google.com/analytics/answer/11583528?hl=en) on July 1, 2023.
+[Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en) is ready to go and [Universal Analytics is being shutdown](https://support.google.com/analytics/answer/11583528?hl=en) on July 1, 2023.
 
 So, I wanted to post a quick guide on installing GA4 so you can track how people are using your website.
 
