@@ -64,6 +64,7 @@ Provide a descriptive name for the version of your container.
 
 Review the changes and click on the "Publish" button to make the container changes live on your website.
 
+&nbsp;
 ### Test and Validate the Implementation
 
 After publishing your changes, visit your website and use the [Google Tag Assistant browser extension](https://get.google.com/tagassistant/) or the Real-Time reports in Google Analytics to verify that data is being collected correctly.
