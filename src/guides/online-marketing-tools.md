@@ -4,7 +4,7 @@ description: "There are many marketing tools that can save you time and energy d
 seo:
     title: "Best Online Marketing Tools | George McEntegart"
     description: "There are many marketing tools that can save you time and energy down the road. Here are some I use, and find myself recommending regularly."
-date: 2023-04-10
+date: 2023-06-13
 layout: "post"
 ---
 
