@@ -29,6 +29,11 @@ I will add to these as I get time and find more, so make sure you check back her
 - **[Hypefury](https://hypefury.com/?via=george-mcentegart27)** Your personal assistant to grow and monetize your Twitter audience, it's epic. Try it free for 14 days!
 
 &nbsp;
+## Project Management
+
+- **[Notion](https://affiliate.notion.so/zk1gdjv9itlz)** The place where all the work happens in our company. Editorial dashboards, link-building campaigns, and more.
+
+&nbsp;
 ## Emails and Newsletters
 
 - **[Klaviyo](https://www.klaviyo.com/partners/signup?utm_source=0013o00002T0MmCAAV&amp;utm_medium=partner)** - A great option for emails, newsletters and SMS. Their segmented lists, automated and triggered emails are amazing.
