@@ -19,7 +19,7 @@ I will add to these as I get time and find more, so make sure you check back her
 &nbsp;
 ## SEO and Marketing Tools
 
-- **[Ahrefs](https://ahrefs.com/)** - an all-in-one SEO toolkit for analysing keywords, competitors and links.
+- **[Ahrefs](https://ahrefs.com/)** - An all-in-one SEO toolkit for analysing keywords, competitors and links.
 - **[Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)** - a desktop website crawler great for analysing websites and improving on-site SEO.
 - **[Hunter](https://hunter.io/)** - If you want to rank on Google, you need to reach out to other sites and build links. dHunter helps by finding webmaster emails and emailing them.
 
