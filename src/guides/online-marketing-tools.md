@@ -43,8 +43,8 @@ I will add to these as I get time and find more, so make sure you check back her
 &nbsp;
 ## Hosting and Website Tools
 
-- **[Cloudways](https://www.cloudways.com/en/?id=1435519)** - Great value hosting provider that allows you to have your own dedicated blazing-fast server. Their support got a lot better recently.
-- **[GeneratePress](https://generatepress.com/?ref=8255)** - A very fast, light WordPress theme that allows you to edit and brand all parts of your site without the bloat of page builders.
+- **[Cloudways](https://www.cloudways.com/en/?id=1435519)** - A great value hosting provider that allows you to have your own dedicated blazing-fast server. Their support got a lot better recently.
+- **[GeneratePress](https://generatepress.com/?ref=8255)** - Very fast, light WordPress theme that allows you to edit and brand all parts of your site without the bloat of page builders.
 - **[SiteGround](https://www.siteground.co.uk/web-hosting.htm?afcode=ccfda08978051dca1456dcbe73a4d786&campaign=georgemc+tools)** - Perfect for hosting websites that are using the WordPress platform, with a free plugin to help speed up your sites. Fast and helpful support when you need it.
 - **[DigitalOcean](https://www.digitalocean.com/?refcode=f068bf6e0053&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)** - Sign up with this link and you'll get $100 free credit to use. Great to try out their hosting services. Works well for a continuous deployment setup with a GitHub repository. Easy to spin up new servers.
 - **[Netlify](https://www.netlify.com/)** - Netlify is an all-in-one platform for automating modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow.
