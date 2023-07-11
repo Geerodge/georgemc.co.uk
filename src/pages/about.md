@@ -12,14 +12,18 @@ layout: "about"
 permalink: /about/index.html
 ---
 
-I will help you grow your business and earn more money, by taking the guesswork out of your marketing.
+I will help you grow your business and take the guesswork out of your marketing.
 
-Over the past 10+ years, I've helped hundreds of business owners and entrepreneurs with...
+With over 10 years experience, I’ve helped hundreds of business owners and entrepreneurs with…
 
-- Full marketing strategy
+- Full digital marketing strategy
 - Search engine optimisation (SEO)
-- Conversion page optimisation
-- and more...
+- Conversion rate optimisation (CRO)
+- Pay-Per-Click campaigns (PPC)
+- Landing pages and content
+- Performance reports
+- Google Analytics
+- and much more...
 
 &nbsp;
 ### How Can I Help You Grow Your Business?
