@@ -1,5 +1,5 @@
 ---
-title: "Digital Marketing to Grow Your Business"
+title: "Digital Marketing"
 subtitle: "I Simplify Marketing to Help You Grow Your Business With Clarity and Confidence"
 description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to grow your business online."
 services: 
