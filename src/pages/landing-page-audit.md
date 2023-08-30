@@ -5,8 +5,8 @@ description: "A 20-minute, private video with easy-to-implement advice that will
 seo:
   title: "Landing Page Conversion Rate Audit / George McEntegart"
   description: "A 20-minute, private video with easy-to-implement advice that will improve your landing page conversion rate, giving you more leads and customers."
-layout: consulting
-permalink: /consulting/landing-page-audit/index.html
+layout: services
+permalink: /services/landing-page-audit/index.html
 ---
 
 ### Is Your Website Costing You Customers?

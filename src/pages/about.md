@@ -14,7 +14,7 @@ permalink: /about/index.html
 
 I will help you grow your business and take the guesswork out of your marketing.
 
-With over 10 years experience, I’ve helped hundreds of business owners and entrepreneurs with…
+With over 10 years experience, I've helped hundreds of businesses of all sizes with…
 
 - Full digital marketing strategy
 - Search engine optimisation (SEO)
@@ -32,11 +32,11 @@ I'll take the guesswork out of your marketing so you can confidently grow your b
 
 #### The Business Boost & Build Newsletter
 
-First, you should [==subscribe to my newsletter==](/newsletter) for the same tools and strategies I've used to help hundreds of small business owners grow their businesses online.
+First, you should [==subscribe to my newsletter==](/newsletter/) for the same tools and strategies I've used to help hundreds of small business owners grow their businesses online.
 
-#### Consulting Services
+#### Marketing Services
 
-I offer one-to-one consulting to select clients.
+I offer digital marketing services and one-to-one consulting to select clients.
 
 I will help you grow your business with clarity and show you...
 
@@ -45,4 +45,4 @@ I will help you grow your business with clarity and show you...
 - About the tools available to automate mundane tasks
 - How to convert website traffic into cash in the bank
 
- ==[Find out how I can help you here](/consulting)==
+ ==[Get in touch today](/contact/)==

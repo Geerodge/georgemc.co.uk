@@ -4,5 +4,5 @@ description: "Whether you want me to secure and optimise your business listing o
 icon: "gmb"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
-directURL: "/consulting/gmb-management/"
+directURL: "/services/gmb-management/"
 ---

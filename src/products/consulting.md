@@ -4,5 +4,5 @@ description: "One-to-One calls to help you understand who and where your custome
 icon: "handshake"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
-directURL: "/consulting/goals-and-growth/"
+directURL: "/services/goals-and-growth/"
 ---

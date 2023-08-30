@@ -5,8 +5,8 @@ description: "I will help you understand who and where your customers are, how t
 seo:
   title: "Digital Marketing Consultancy / George McEntegart"
   description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to achieve your digital marketing goals."
-layout: consulting
-permalink: /consulting/goals-and-growth/index.html
+layout: services
+permalink: /services/goals-and-growth/index.html
 ---
 
 ### Do You Need Clarity and Direction?

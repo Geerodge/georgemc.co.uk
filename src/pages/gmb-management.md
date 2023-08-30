@@ -5,8 +5,8 @@ description: "Confused about how to make the most of your Google Business Profil
 seo:
   title: "Google Business Profile Management / George McEntegart"
   description: "I will design and develop a stunning, responsive, and user-friendly website that showcases your brands personality and help you thrive in the digital world."
-layout: consulting
-permalink: /consulting/gmb-management/index.html
+layout: services
+permalink: /services/gmb-management/index.html
 ---
 
 ### Helping You Get Found Locally on Google

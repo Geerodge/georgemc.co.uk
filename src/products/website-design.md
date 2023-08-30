@@ -4,5 +4,5 @@ description: "I will design and develop a stunning, responsive, and user-friendl
 icon: "laptop"
 eleventyExcludeFromCollections: false
 excludeFromSitemap: true
-directURL: "/consulting/website-design/"
+directURL: "/services/website-design/"
 ---

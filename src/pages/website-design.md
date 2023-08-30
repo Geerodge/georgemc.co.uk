@@ -5,8 +5,8 @@ description: "I will design and develop a stunning, responsive, and user-friendl
 seo:
   title: "Website Design & Development / George McEntegart"
   description: "I will design and develop a stunning, responsive, and user-friendly website that showcases your brands personality and help you thrive in the digital world."
-layout: consulting
-permalink: /consulting/website-design/index.html
+layout: services
+permalink: /services/website-design/index.html
 ---
 
 ### Websites That Look Great and Attract Customers

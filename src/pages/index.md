@@ -1,6 +1,6 @@
 ---
-title: "Digital Marketing Consultant"
-subtitle: "I Simplify Marketing to Help You Grow Your Online Business With Clarity and Confidence"
+title: "Digital Marketing to Grow Your Business"
+subtitle: "I Simplify Marketing to Help You Grow Your Business With Clarity and Confidence"
 description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to grow your business online."
 services: 
   heading: "Grow Your Business Online With Ease"
@@ -13,7 +13,7 @@ newsletter:
 testimonials:
   heading: "Testimonials"
 seo:
-  title: "Digital Marketing Consultant / George McEntegart"
+  title: "Digital Marketing Services / George McEntegart"
   description: "I will help you understand who and where your customers are, how to connect with them and what you should focus on to grow your business online."
 layout: "home"
 permalink: /index.html

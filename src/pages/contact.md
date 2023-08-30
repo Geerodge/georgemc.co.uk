@@ -21,7 +21,7 @@ Send an email to [contact@georgemc.co.uk](mailto:contact@georgemc.co.uk) with th
 
 Alternatively, you can call me on [07899 890634](tel:07899890634).
 
-You can read more about [the services I provide here](/consulting).
+You can read more about [the marketing services I provide here](/services).
 
 #### Have a Question?
 
