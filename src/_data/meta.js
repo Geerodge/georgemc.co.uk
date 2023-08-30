@@ -28,7 +28,7 @@ module.exports = {
     // this is for the rss feed
     name: 'Tools and Strategies That Grow Your Business - George McEntegart',
     description:
-      'Once a week you’ll get an email with my latest tips and insights that will help you grow your online business.'
+      'Get my latest tips and insights that will help you grow your online business, straight to your inbox.'
   },
   guides: {
     // this is for the rss feed

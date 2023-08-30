@@ -8,7 +8,7 @@ services:
 newsletter: 
   heading: "Tools and Strategies That Grow Your Business"
   subtitle: "The Business Boost & Build Newsletter"
-  content: "A free weekly newsletter with tips and resources to help you grow your business with clarity and confidence."
+  content: "A free newsletter with tips and resources to help you grow your business with clarity and confidence."
   subcontent: "It includes one tip from me and three resources from others."
 testimonials:
   heading: "Testimonials"

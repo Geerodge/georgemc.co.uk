@@ -1,7 +1,7 @@
 ---
 title: "Business Boost & Build Newsletter"
 subtitle: "Ideas That Simplify Marketing and Help You Grow Your Online Business"
-description: "Once a week you'll get an email that will help you grow your online business. It includes one tip from me and three resources from others."
+description: "Emails from me that will help you grow your online business. It includes one tip from me and three resources from others."
 subcontent: "It includes one tip from me and three resources from others."
 blog:
   title: "Previous Issues"
@@ -18,4 +18,4 @@ permalink: /newsletter/index.html
 
 #### The Business Boost & Build Newsletter
 
-A free weekly newsletter with tips and resources to help you grow your business with clarity and confidence.
+A free newsletter with tips and resources to help you grow your business with clarity and confidence.

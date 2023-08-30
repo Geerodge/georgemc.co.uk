@@ -27,4 +27,4 @@ You can read more about [the services I provide here](/consulting).
 
 If you have a quick question, you can also find me on Twitter [@Geerodge](https://twitter.com/geerodge).
 
-You may be interested in my weekly newsletter [Business Boost & Build](/newsletter) where I simplify marketing ideas that will help you grow your business.
+You may be interested in my newsletter [Business Boost & Build](/newsletter) where I simplify marketing ideas that will help you grow your business.
