@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       text: 'Work With Me',
-      url: '/services/'
+      url: '/contact/'
     },
   ],
   bottom: [

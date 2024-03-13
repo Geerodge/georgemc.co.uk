@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Me
 description: "Contact me today to find out how I can support your digital marketing strategy and grow your business."
 subtitle: "I Will Help You Grow Your Business With Clarity and Confidence"
 seo:
@@ -17,11 +17,8 @@ Send an email to [contact@georgemc.co.uk](mailto:contact@georgemc.co.uk) with th
 
 - Full name
 - Best contact number
-- What you need
+- What you need help with
 
-Alternatively, you can call me on [07899 890634](tel:07899890634).
-
-You can read more about [the marketing services I provide here](/services).
 
 #### Have a Question?
 

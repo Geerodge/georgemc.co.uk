@@ -25,7 +25,6 @@ With over 10 years experience, I've helped hundreds of businesses of all sizes w
 - Google Analytics
 - and much more...
 
-&nbsp;
 ### How Can I Help You Grow Your Business?
 
 I'll take the guesswork out of your marketing so you can confidently grow your business with clarity.
